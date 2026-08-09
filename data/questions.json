@@ -1,0 +1,4002 @@
+[
+  {
+    "id": 1,
+    "pergunta": "Qual é a capital do Brasil?",
+    "alternativas": [
+      "Rio de Janeiro",
+      "São Paulo",
+      "Brasília",
+      "Salvador"
+    ],
+    "resposta": 2,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "Brasil",
+    "dicas": [
+      "Este país é o maior da América do Sul.",
+      "A capital foi planejada e inaugurada em 1960."
+    ]
+  },
+  {
+    "id": 2,
+    "pergunta": "Qual é o maior país da América do Sul em extensão territorial?",
+    "alternativas": [
+      "Argentina",
+      "Brasil",
+      "Peru",
+      "Colômbia"
+    ],
+    "resposta": 1,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "facil",
+    "tipo": "geografia",
+    "pais": "Brasil",
+    "dicas": [
+      "É o único país sul-americano que tem o português como língua oficial.",
+      "Seu território ocupa grande parte da região oriental do continente."
+    ]
+  },
+  {
+    "id": 3,
+    "pergunta": "Qual bioma ocupa grande parte da região central do Brasil?",
+    "alternativas": [
+      "Pampa",
+      "Cerrado",
+      "Caatinga",
+      "Pantanal"
+    ],
+    "resposta": 1,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "facil",
+    "tipo": "bioma",
+    "pais": "Brasil",
+    "dicas": [
+      "É conhecido por possuir vegetação adaptada a períodos de seca.",
+      "É considerado um dos grandes biomas brasileiros."
+    ]
+  },
+  {
+    "id": 4,
+    "pergunta": "Qual é o principal rio responsável pela formação da maior bacia hidrográfica do mundo?",
+    "alternativas": [
+      "Rio Paraná",
+      "Rio São Francisco",
+      "Rio Amazonas",
+      "Rio Orinoco"
+    ],
+    "resposta": 2,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "facil",
+    "tipo": "hidrografia",
+    "pais": "Brasil",
+    "dicas": [
+      "Nasce na região dos Andes por meio de um sistema de rios.",
+      "Sua bacia ocupa vários países da América do Sul."
+    ]
+  },
+  {
+    "id": 5,
+    "pergunta": "Qual país sul-americano é conhecido por possuir grandes reservas de petróleo na região do Orinoco?",
+    "alternativas": [
+      "Chile",
+      "Venezuela",
+      "Uruguai",
+      "Equador"
+    ],
+    "resposta": 1,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "medio",
+    "tipo": "economia",
+    "pais": "Venezuela",
+    "dicas": [
+      "O país está localizado na costa norte da América do Sul.",
+      "A região do Orinoco possui importantes reservas de petróleo."
+    ]
+  },
+  {
+    "id": 6,
+    "pergunta": "Qual é a capital da Argentina?",
+    "alternativas": [
+      "Córdoba",
+      "Rosário",
+      "Buenos Aires",
+      "Mendoza"
+    ],
+    "resposta": 2,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "Argentina",
+    "dicas": [
+      "É uma das maiores cidades da América do Sul.",
+      "Está localizada às margens do Rio da Prata."
+    ]
+  },
+  {
+    "id": 7,
+    "pergunta": "Qual cordilheira se estende pela parte oeste da América do Sul?",
+    "alternativas": [
+      "Alpes",
+      "Himalaia",
+      "Andes",
+      "Montes Urais"
+    ],
+    "resposta": 2,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "facil",
+    "tipo": "relevo",
+    "pais": "Chile",
+    "dicas": [
+      "Ela passa por vários países sul-americanos.",
+      "Abriga algumas das maiores altitudes do continente."
+    ]
+  },
+  {
+    "id": 8,
+    "pergunta": "Qual país possui o Deserto do Atacama, considerado um dos lugares mais secos do planeta?",
+    "alternativas": [
+      "Peru",
+      "Chile",
+      "Bolívia",
+      "Argentina"
+    ],
+    "resposta": 1,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "facil",
+    "tipo": "clima",
+    "pais": "Chile",
+    "dicas": [
+      "O país possui um território longo e estreito.",
+      "O deserto está localizado no norte do país."
+    ]
+  },
+  {
+    "id": 9,
+    "pergunta": "Qual país sul-americano não possui saída para o oceano?",
+    "alternativas": [
+      "Chile",
+      "Peru",
+      "Bolívia",
+      "Equador"
+    ],
+    "resposta": 2,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "facil",
+    "tipo": "geografia",
+    "pais": "Bolívia",
+    "dicas": [
+      "O país perdeu sua saída para o Oceano Pacífico em uma guerra no século XIX.",
+      "Sua capital constitucional é Sucre."
+    ]
+  },
+  {
+    "id": 10,
+    "pergunta": "Qual é a principal atividade econômica historicamente associada à região dos Pampas argentinos?",
+    "alternativas": [
+      "Pesca oceânica",
+      "Pecuária e agricultura",
+      "Extração de petróleo",
+      "Mineração de ouro"
+    ],
+    "resposta": 1,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "medio",
+    "tipo": "economia",
+    "pais": "Argentina",
+    "dicas": [
+      "A região possui extensas planícies e solos férteis.",
+      "A produção de carne e grãos possui grande importância."
+    ]
+  },
+  {
+    "id": 11,
+    "pergunta": "Qual é a capital do Peru?",
+    "alternativas": [
+      "Cusco",
+      "Arequipa",
+      "Lima",
+      "Trujillo"
+    ],
+    "resposta": 2,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "Peru",
+    "dicas": [
+      "É uma cidade localizada próxima ao Oceano Pacífico.",
+      "Cusco foi uma importante cidade do Império Inca."
+    ]
+  },
+  {
+    "id": 12,
+    "pergunta": "Qual civilização pré-colombiana teve seu principal centro político na região do atual Peru?",
+    "alternativas": [
+      "Asteca",
+      "Inca",
+      "Maia",
+      "Olmeca"
+    ],
+    "resposta": 1,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "facil",
+    "tipo": "historia",
+    "pais": "Peru",
+    "dicas": [
+      "Essa civilização construiu Machu Picchu.",
+      "Seu império se estendia por grande parte dos Andes."
+    ]
+  },
+  {
+    "id": 13,
+    "pergunta": "Qual é o maior rio da América do Sul em volume de água?",
+    "alternativas": [
+      "Rio Paraná",
+      "Rio Amazonas",
+      "Rio Paraguai",
+      "Rio Uruguai"
+    ],
+    "resposta": 1,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "facil",
+    "tipo": "hidrografia",
+    "pais": "Brasil",
+    "dicas": [
+      "Ele atravessa uma das maiores florestas tropicais do planeta.",
+      "Sua bacia hidrográfica está presente em diversos países."
+    ]
+  },
+  {
+    "id": 14,
+    "pergunta": "Qual país é um dos maiores produtores mundiais de cobre?",
+    "alternativas": [
+      "Chile",
+      "Uruguai",
+      "Paraguai",
+      "Suriname"
+    ],
+    "resposta": 0,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "medio",
+    "tipo": "recursos-naturais",
+    "pais": "Chile",
+    "dicas": [
+      "A mineração possui enorme importância para sua economia.",
+      "É um dos principais países produtores desse metal."
+    ]
+  },
+  {
+    "id": 15,
+    "pergunta": "Qual país abriga uma grande parte da Floresta Amazônica?",
+    "alternativas": [
+      "Brasil",
+      "Argentina",
+      "Chile",
+      "Uruguai"
+    ],
+    "resposta": 0,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "facil",
+    "tipo": "bioma",
+    "pais": "Brasil",
+    "dicas": [
+      "A maior parte da floresta está localizada nesse país.",
+      "A região amazônica ocupa principalmente a porção norte do território."
+    ]
+  },
+  {
+    "id": 16,
+    "pergunta": "Qual país possui o Lago Titicaca em sua fronteira com o Peru?",
+    "alternativas": [
+      "Bolívia",
+      "Chile",
+      "Colômbia",
+      "Equador"
+    ],
+    "resposta": 0,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "medio",
+    "tipo": "hidrografia",
+    "pais": "Bolívia",
+    "dicas": [
+      "O país está localizado no centro-oeste da América do Sul.",
+      "O lago também pertence ao Peru."
+    ]
+  },
+  {
+    "id": 17,
+    "pergunta": "Qual país sul-americano possui o Guarani como uma de suas línguas oficiais?",
+    "alternativas": [
+      "Paraguai",
+      "Chile",
+      "Argentina",
+      "Venezuela"
+    ],
+    "resposta": 0,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "medio",
+    "tipo": "cultura",
+    "pais": "Paraguai",
+    "dicas": [
+      "O espanhol também é língua oficial do país.",
+      "O país faz fronteira com Brasil, Argentina e Bolívia."
+    ]
+  },
+  {
+    "id": 18,
+    "pergunta": "Qual é a capital do Chile?",
+    "alternativas": [
+      "Valparaíso",
+      "Santiago",
+      "Concepción",
+      "Antofagasta"
+    ],
+    "resposta": 1,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "Chile",
+    "dicas": [
+      "É a maior cidade do país.",
+      "Está localizada em um vale próximo à Cordilheira dos Andes."
+    ]
+  },
+  {
+    "id": 19,
+    "pergunta": "Qual bioma brasileiro é conhecido por suas extensas áreas alagáveis?",
+    "alternativas": [
+      "Pampa",
+      "Pantanal",
+      "Caatinga",
+      "Cerrado"
+    ],
+    "resposta": 1,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "facil",
+    "tipo": "bioma",
+    "pais": "Brasil",
+    "dicas": [
+      "É uma das maiores áreas úmidas continentais do planeta.",
+      "Está localizado principalmente nos estados de Mato Grosso e Mato Grosso do Sul."
+    ]
+  },
+  {
+    "id": 20,
+    "pergunta": "Qual país possui uma economia fortemente ligada à produção de soja e carne bovina?",
+    "alternativas": [
+      "Argentina",
+      "Chile",
+      "Guiana",
+      "Suriname"
+    ],
+    "resposta": 0,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "medio",
+    "tipo": "economia",
+    "pais": "Argentina",
+    "dicas": [
+      "O país possui extensas áreas agrícolas.",
+      "A região dos Pampas é importante para sua produção agropecuária."
+    ]
+  },
+  {
+    "id": 21,
+    "pergunta": "Qual é a capital da Colômbia?",
+    "alternativas": [
+      "Medellín",
+      "Cali",
+      "Bogotá",
+      "Cartagena"
+    ],
+    "resposta": 2,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "Colômbia",
+    "dicas": [
+      "É uma das maiores cidades da América do Sul.",
+      "Está localizada em uma região montanhosa dos Andes."
+    ]
+  },
+  {
+    "id": 22,
+    "pergunta": "Qual país sul-americano é conhecido mundialmente pela produção de café?",
+    "alternativas": [
+      "Colômbia",
+      "Uruguai",
+      "Paraguai",
+      "Guiana"
+    ],
+    "resposta": 0,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "facil",
+    "tipo": "economia",
+    "pais": "Colômbia",
+    "dicas": [
+      "O café é um importante produto de exportação desse país.",
+      "O país está localizado no noroeste da América do Sul."
+    ]
+  },
+  {
+    "id": 23,
+    "pergunta": "Qual é o bioma predominante no extremo sul do Brasil?",
+    "alternativas": [
+      "Caatinga",
+      "Pampa",
+      "Amazônia",
+      "Cerrado"
+    ],
+    "resposta": 1,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "facil",
+    "tipo": "bioma",
+    "pais": "Brasil",
+    "dicas": [
+      "É caracterizado principalmente por campos naturais.",
+      "No Brasil, está presente principalmente no Rio Grande do Sul."
+    ]
+  },
+  {
+    "id": 24,
+    "pergunta": "Qual país possui uma das maiores reservas de lítio do mundo, especialmente na região do Salar de Uyuni?",
+    "alternativas": [
+      "Bolívia",
+      "Brasil",
+      "Colômbia",
+      "Uruguai"
+    ],
+    "resposta": 0,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "medio",
+    "tipo": "recursos-naturais",
+    "pais": "Bolívia",
+    "dicas": [
+      "O país não possui litoral.",
+      "O Salar de Uyuni é uma das maiores planícies de sal do planeta."
+    ]
+  },
+  {
+    "id": 25,
+    "pergunta": "Qual é a capital do Uruguai?",
+    "alternativas": [
+      "Punta del Este",
+      "Salto",
+      "Colonia del Sacramento",
+      "Montevidéu"
+    ],
+    "resposta": 3,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "Uruguai",
+    "dicas": [
+      "É a maior cidade do país.",
+      "Está localizada às margens do Rio da Prata."
+    ]
+  },
+  {
+    "id": 26,
+    "pergunta": "Qual país possui uma grande parte de seu território coberta pela Floresta Amazônica?",
+    "alternativas": [
+      "Chile",
+      "Peru",
+      "Argentina",
+      "Uruguai"
+    ],
+    "resposta": 1,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "facil",
+    "tipo": "bioma",
+    "pais": "Peru",
+    "dicas": [
+      "O país possui regiões costeiras, andinas e amazônicas.",
+      "A Amazônia ocupa grande parte de sua porção oriental."
+    ]
+  },
+  {
+    "id": 27,
+    "pergunta": "Qual é o principal produto mineral explorado na região de Potosí, na Bolívia, desde o período colonial?",
+    "alternativas": [
+      "Prata",
+      "Carvão",
+      "Petróleo",
+      "Bauxita"
+    ],
+    "resposta": 0,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "medio",
+    "tipo": "historia",
+    "pais": "Bolívia",
+    "dicas": [
+      "A exploração desse mineral tornou Potosí uma cidade muito importante durante o período colonial.",
+      "O Cerro Rico está associado à exploração desse recurso."
+    ]
+  },
+  {
+    "id": 28,
+    "pergunta": "Qual país sul-americano possui o maior território depois do Brasil?",
+    "alternativas": [
+      "Peru",
+      "Colômbia",
+      "Argentina",
+      "Chile"
+    ],
+    "resposta": 2,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "facil",
+    "tipo": "geografia",
+    "pais": "Argentina",
+    "dicas": [
+      "É o segundo maior país da América do Sul.",
+      "Seu território se estende até o extremo sul do continente."
+    ]
+  },
+  {
+    "id": 29,
+    "pergunta": "Qual é o nome da grande planície localizada principalmente na Argentina e conhecida pela produção agrícola?",
+    "alternativas": [
+      "Pampas",
+      "Altiplano",
+      "Patagônia",
+      "Chaco"
+    ],
+    "resposta": 0,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "medio",
+    "tipo": "relevo",
+    "pais": "Argentina",
+    "dicas": [
+      "A região possui solos muito férteis.",
+      "É importante para a produção de trigo, milho e soja."
+    ]
+  },
+  {
+    "id": 30,
+    "pergunta": "Qual país é conhecido por possuir grande produção de petróleo na América do Sul?",
+    "alternativas": [
+      "Venezuela",
+      "Uruguai",
+      "Paraguai",
+      "Suriname"
+    ],
+    "resposta": 0,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "facil",
+    "tipo": "economia",
+    "pais": "Venezuela",
+    "dicas": [
+      "O petróleo possui grande importância histórica para sua economia.",
+      "O país possui importantes reservas na região do Orinoco."
+    ]
+  },
+  {
+    "id": 31,
+    "pergunta": "Qual é a capital do Equador?",
+    "alternativas": [
+      "Guayaquil",
+      "Quito",
+      "Cuenca",
+      "Loja"
+    ],
+    "resposta": 1,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "Equador",
+    "dicas": [
+      "É uma das capitais mais altas do mundo.",
+      "Está localizada na região dos Andes."
+    ]
+  },
+  {
+    "id": 32,
+    "pergunta": "Qual país sul-americano é famoso pelas Ilhas Galápagos?",
+    "alternativas": [
+      "Peru",
+      "Equador",
+      "Chile",
+      "Colômbia"
+    ],
+    "resposta": 1,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "facil",
+    "tipo": "geografia",
+    "pais": "Equador",
+    "dicas": [
+      "As ilhas estão localizadas no Oceano Pacífico.",
+      "Elas tiveram grande importância para os estudos de Charles Darwin."
+    ]
+  },
+  {
+    "id": 33,
+    "pergunta": "Qual país possui grande parte do Deserto do Atacama?",
+    "alternativas": [
+      "Chile",
+      "Argentina",
+      "Peru",
+      "Bolívia"
+    ],
+    "resposta": 0,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "facil",
+    "tipo": "clima",
+    "pais": "Chile",
+    "dicas": [
+      "O deserto está localizado no norte do país.",
+      "É conhecido por ser uma das regiões mais secas da Terra."
+    ]
+  },
+  {
+    "id": 34,
+    "pergunta": "Qual país sul-americano possui o maior número de falantes de português?",
+    "alternativas": [
+      "Brasil",
+      "Portugal",
+      "Argentina",
+      "Paraguai"
+    ],
+    "resposta": 0,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "facil",
+    "tipo": "populacao",
+    "pais": "Brasil",
+    "dicas": [
+      "É o maior país da América do Sul.",
+      "Sua população ultrapassa 200 milhões de habitantes."
+    ]
+  },
+  {
+    "id": 35,
+    "pergunta": "Qual rio forma parte da fronteira entre Brasil, Paraguai e Argentina?",
+    "alternativas": [
+      "Rio Amazonas",
+      "Rio Paraná",
+      "Rio São Francisco",
+      "Rio Orinoco"
+    ],
+    "resposta": 1,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "medio",
+    "tipo": "hidrografia",
+    "pais": "Brasil",
+    "dicas": [
+      "É um dos principais rios da Bacia do Prata.",
+      "As Cataratas do Iguaçu estão associadas à sua bacia."
+    ]
+  },
+  {
+    "id": 36,
+    "pergunta": "Qual país é conhecido pela produção de salmão e cobre, além de possuir uma extensa costa no Oceano Pacífico?",
+    "alternativas": [
+      "Chile",
+      "Paraguai",
+      "Bolívia",
+      "Uruguai"
+    ],
+    "resposta": 0,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "medio",
+    "tipo": "economia",
+    "pais": "Chile",
+    "dicas": [
+      "É um país estreito e comprido.",
+      "A mineração e a pesca possuem grande importância econômica."
+    ]
+  },
+  {
+    "id": 37,
+    "pergunta": "Qual país sul-americano possui a Patagônia em seu território?",
+    "alternativas": [
+      "Argentina",
+      "Colômbia",
+      "Equador",
+      "Venezuela"
+    ],
+    "resposta": 0,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "facil",
+    "tipo": "geografia",
+    "pais": "Argentina",
+    "dicas": [
+      "A região está localizada no extremo sul do continente.",
+      "Também existe uma parte da Patagônia no Chile."
+    ]
+  },
+  {
+    "id": 38,
+    "pergunta": "Qual país possui uma economia fortemente baseada na exportação de soja e possui o rio Paraguai como importante via de transporte?",
+    "alternativas": [
+      "Paraguai",
+      "Chile",
+      "Equador",
+      "Venezuela"
+    ],
+    "resposta": 0,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "medio",
+    "tipo": "economia",
+    "pais": "Paraguai",
+    "dicas": [
+      "É um país sem saída para o mar.",
+      "A agricultura possui grande importância para suas exportações."
+    ]
+  },
+  {
+    "id": 39,
+    "pergunta": "Qual país sul-americano possui a maior parte de seu território localizada na Bacia Amazônica?",
+    "alternativas": [
+      "Brasil",
+      "Argentina",
+      "Uruguai",
+      "Chile"
+    ],
+    "resposta": 0,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "facil",
+    "tipo": "hidrografia",
+    "pais": "Brasil",
+    "dicas": [
+      "A maior bacia hidrográfica do planeta ocupa grande parte do norte do país.",
+      "O Rio Amazonas é o principal rio desse sistema."
+    ]
+  },
+  {
+    "id": 40,
+    "pergunta": "Qual país sul-americano possui duas línguas oficiais principais, espanhol e guarani?",
+    "alternativas": [
+      "Paraguai",
+      "Peru",
+      "Bolívia",
+      "Equador"
+    ],
+    "resposta": 0,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "medio",
+    "tipo": "cultura",
+    "pais": "Paraguai",
+    "dicas": [
+      "O guarani possui forte presença na população.",
+      "O país faz fronteira com Brasil, Argentina e Bolívia."
+    ]
+  },
+  {
+    "id": 41,
+    "pergunta": "Qual é a capital dos Estados Unidos?",
+    "alternativas": [
+      "Nova York",
+      "Los Angeles",
+      "Washington, D.C.",
+      "Chicago"
+    ],
+    "resposta": 2,
+    "continente": "América do Norte",
+    "regiao": "america-do-norte",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "Estados Unidos",
+    "dicas": [
+      "Não é a cidade mais populosa do país.",
+      "Fica localizada no Distrito de Columbia."
+    ]
+  },
+  {
+    "id": 42,
+    "pergunta": "Qual é o maior país da América do Norte em extensão territorial?",
+    "alternativas": [
+      "Estados Unidos",
+      "México",
+      "Canadá",
+      "Groenlândia"
+    ],
+    "resposta": 2,
+    "continente": "América do Norte",
+    "regiao": "america-do-norte",
+    "dificuldade": "facil",
+    "tipo": "geografia",
+    "pais": "Canadá",
+    "dicas": [
+      "É o segundo maior país do mundo em área.",
+      "Possui uma extensa fronteira terrestre com os Estados Unidos."
+    ]
+  },
+  {
+    "id": 43,
+    "pergunta": "Qual é a capital do Canadá?",
+    "alternativas": [
+      "Toronto",
+      "Vancouver",
+      "Montreal",
+      "Ottawa"
+    ],
+    "resposta": 3,
+    "continente": "América do Norte",
+    "regiao": "america-do-norte",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "Canadá",
+    "dicas": [
+      "Não é a cidade mais populosa do país.",
+      "Está localizada na província de Ontário."
+    ]
+  },
+  {
+    "id": 44,
+    "pergunta": "Qual é a capital do México?",
+    "alternativas": [
+      "Cancún",
+      "Cidade do México",
+      "Guadalajara",
+      "Monterrey"
+    ],
+    "resposta": 1,
+    "continente": "América do Norte",
+    "regiao": "america-do-norte",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "México",
+    "dicas": [
+      "É uma das maiores cidades do mundo.",
+      "Está localizada em uma região de altitude elevada."
+    ]
+  },
+  {
+    "id": 45,
+    "pergunta": "Qual é o maior rio da América do Norte em extensão?",
+    "alternativas": [
+      "Rio Colorado",
+      "Rio Mississippi-Missouri",
+      "Rio Yukon",
+      "Rio Grande"
+    ],
+    "resposta": 1,
+    "continente": "América do Norte",
+    "regiao": "america-do-norte",
+    "dificuldade": "medio",
+    "tipo": "hidrografia",
+    "pais": "Estados Unidos",
+    "dicas": [
+      "O sistema é formado pela união de dois grandes rios.",
+      "Sua bacia ocupa uma grande parte dos Estados Unidos."
+    ]
+  },
+  {
+    "id": 46,
+    "pergunta": "Qual conjunto de lagos está localizado entre os Estados Unidos e o Canadá?",
+    "alternativas": [
+      "Grandes Lagos",
+      "Lagos Alpinos",
+      "Lagos Andinos",
+      "Lagos Rochosos"
+    ],
+    "resposta": 0,
+    "continente": "América do Norte",
+    "regiao": "america-do-norte",
+    "dificuldade": "facil",
+    "tipo": "hidrografia",
+    "pais": "Canadá",
+    "dicas": [
+      "O conjunto possui cinco grandes lagos.",
+      "Eles formam uma das maiores reservas de água doce superficial do mundo."
+    ]
+  },
+  {
+    "id": 47,
+    "pergunta": "Qual bioma é característico de grande parte do norte do Canadá?",
+    "alternativas": [
+      "Floresta Amazônica",
+      "Taiga",
+      "Cerrado",
+      "Savana"
+    ],
+    "resposta": 1,
+    "continente": "América do Norte",
+    "regiao": "america-do-norte",
+    "dificuldade": "medio",
+    "tipo": "bioma",
+    "pais": "Canadá",
+    "dicas": [
+      "É formada principalmente por florestas de coníferas.",
+      "É adaptada a regiões de clima frio."
+    ]
+  },
+  {
+    "id": 48,
+    "pergunta": "Qual região é conhecida por apresentar clima extremamente frio e vegetação de tundra?",
+    "alternativas": [
+      "Flórida",
+      "Alasca",
+      "Califórnia",
+      "Yucatán"
+    ],
+    "resposta": 1,
+    "continente": "América do Norte",
+    "regiao": "america-do-norte",
+    "dificuldade": "facil",
+    "tipo": "clima",
+    "pais": "Estados Unidos",
+    "dicas": [
+      "É o estado mais ao norte dos Estados Unidos.",
+      "Foi comprado da Rússia pelos Estados Unidos no século XIX."
+    ]
+  },
+  {
+    "id": 49,
+    "pergunta": "Qual é a principal atividade econômica historicamente associada às Grandes Planícies da América do Norte?",
+    "alternativas": [
+      "Agricultura e pecuária",
+      "Pesca de alto-mar",
+      "Turismo de praia",
+      "Extração de borracha"
+    ],
+    "resposta": 0,
+    "continente": "América do Norte",
+    "regiao": "america-do-norte",
+    "dificuldade": "medio",
+    "tipo": "economia",
+    "pais": "Estados Unidos",
+    "dicas": [
+      "A região possui grandes áreas de terras agrícolas.",
+      "Trigo, milho e criação de gado são importantes atividades."
+    ]
+  },
+  {
+    "id": 50,
+    "pergunta": "Qual país é um dos maiores produtores mundiais de petróleo e gás natural da América do Norte?",
+    "alternativas": [
+      "Canadá",
+      "Costa Rica",
+      "Cuba",
+      "Panamá"
+    ],
+    "resposta": 0,
+    "continente": "América do Norte",
+    "regiao": "america-do-norte",
+    "dificuldade": "medio",
+    "tipo": "economia",
+    "pais": "Canadá",
+    "dicas": [
+      "O país possui grandes reservas de petróleo em Alberta.",
+      "A exploração de recursos naturais possui grande importância econômica."
+    ]
+  },
+  {
+    "id": 51,
+    "pergunta": "Qual deserto está localizado principalmente no sudoeste dos Estados Unidos e no norte do México?",
+    "alternativas": [
+      "Deserto do Saara",
+      "Deserto de Sonora",
+      "Deserto de Atacama",
+      "Deserto de Gobi"
+    ],
+    "resposta": 1,
+    "continente": "América do Norte",
+    "regiao": "america-do-norte",
+    "dificuldade": "medio",
+    "tipo": "clima",
+    "pais": "México",
+    "dicas": [
+      "É um dos maiores desertos da América do Norte.",
+      "Abrange áreas dos estados mexicanos de Sonora e Baja California."
+    ]
+  },
+  {
+    "id": 52,
+    "pergunta": "Qual cordilheira se estende pelo oeste da América do Norte?",
+    "alternativas": [
+      "Cordilheira dos Andes",
+      "Montanhas Rochosas",
+      "Himalaia",
+      "Alpes"
+    ],
+    "resposta": 1,
+    "continente": "América do Norte",
+    "regiao": "america-do-norte",
+    "dificuldade": "facil",
+    "tipo": "relevo",
+    "pais": "Estados Unidos",
+    "dicas": [
+      "A cordilheira atravessa o Canadá e os Estados Unidos.",
+      "Possui algumas das maiores montanhas da América do Norte."
+    ]
+  },
+  {
+    "id": 53,
+    "pergunta": "Qual país possui uma das maiores economias da América do Norte e é conhecido pela indústria automobilística, tecnológica e de serviços?",
+    "alternativas": [
+      "México",
+      "Estados Unidos",
+      "Cuba",
+      "Guatemala"
+    ],
+    "resposta": 1,
+    "continente": "América do Norte",
+    "regiao": "america-do-norte",
+    "dificuldade": "facil",
+    "tipo": "economia",
+    "pais": "Estados Unidos",
+    "dicas": [
+      "Possui uma das maiores economias do mundo.",
+      "Nova York, Califórnia e Texas são importantes centros econômicos."
+    ]
+  },
+  {
+    "id": 54,
+    "pergunta": "Qual país da América do Norte possui o espanhol como principal idioma e uma forte indústria automobilística?",
+    "alternativas": [
+      "Canadá",
+      "México",
+      "Estados Unidos",
+      "Groenlândia"
+    ],
+    "resposta": 1,
+    "continente": "América do Norte",
+    "regiao": "america-do-norte",
+    "dificuldade": "facil",
+    "tipo": "economia",
+    "pais": "México",
+    "dicas": [
+      "É o país mais ao sul da América do Norte.",
+      "Possui fronteira terrestre com os Estados Unidos."
+    ]
+  },
+  {
+    "id": 55,
+    "pergunta": "Qual povo construiu grandes cidades e desenvolveu uma importante civilização no território do atual México?",
+    "alternativas": [
+      "Astecas",
+      "Incas",
+      "Vikings",
+      "Egípcios"
+    ],
+    "resposta": 0,
+    "continente": "América do Norte",
+    "regiao": "america-do-norte",
+    "dificuldade": "facil",
+    "tipo": "historia",
+    "pais": "México",
+    "dicas": [
+      "Sua capital era Tenochtitlán.",
+      "A civilização foi encontrada pelos espanhóis no século XVI."
+    ]
+  },
+  {
+    "id": 56,
+    "pergunta": "Qual é a maior ilha do mundo, localizada geograficamente na América do Norte?",
+    "alternativas": [
+      "Madagascar",
+      "Groenlândia",
+      "Islândia",
+      "Cuba"
+    ],
+    "resposta": 1,
+    "continente": "América do Norte",
+    "regiao": "america-do-norte",
+    "dificuldade": "facil",
+    "tipo": "geografia",
+    "pais": "Groenlândia",
+    "dicas": [
+      "Grande parte de seu território é coberta por gelo.",
+      "Politicamente, pertence ao Reino da Dinamarca."
+    ]
+  },
+  {
+    "id": 57,
+    "pergunta": "Qual recurso natural possui grande importância para a economia do Canadá?",
+    "alternativas": [
+      "Madeira",
+      "Borracha natural",
+      "Café",
+      "Cacau"
+    ],
+    "resposta": 0,
+    "continente": "América do Norte",
+    "regiao": "america-do-norte",
+    "dificuldade": "medio",
+    "tipo": "recursos-naturais",
+    "pais": "Canadá",
+    "dicas": [
+      "O Canadá possui uma das maiores áreas florestais do mundo.",
+      "O país possui uma forte indústria de produtos florestais."
+    ]
+  },
+  {
+    "id": 58,
+    "pergunta": "Qual estado dos Estados Unidos é conhecido por sua grande produção de frutas, tecnologia e agricultura?",
+    "alternativas": [
+      "Califórnia",
+      "Alasca",
+      "Havaí",
+      "Nevada"
+    ],
+    "resposta": 0,
+    "continente": "América do Norte",
+    "regiao": "america-do-norte",
+    "dificuldade": "medio",
+    "tipo": "economia",
+    "pais": "Estados Unidos",
+    "dicas": [
+      "É o estado onde está localizado o Vale do Silício.",
+      "Também possui importantes áreas agrícolas."
+    ]
+  },
+  {
+    "id": 59,
+    "pergunta": "Qual é o nome do rio que marca parte da fronteira entre os Estados Unidos e o México?",
+    "alternativas": [
+      "Rio Colorado",
+      "Rio Grande",
+      "Rio Mississippi",
+      "Rio Yukon"
+    ],
+    "resposta": 1,
+    "continente": "América do Norte",
+    "regiao": "america-do-norte",
+    "dificuldade": "facil",
+    "tipo": "hidrografia",
+    "pais": "México",
+    "dicas": [
+      "Nos Estados Unidos, é conhecido como Rio Grande.",
+      "No México, é chamado de Río Bravo."
+    ]
+  },
+  {
+    "id": 60,
+    "pergunta": "Qual cidade dos Estados Unidos é um dos maiores centros financeiros do mundo e abriga Wall Street?",
+    "alternativas": [
+      "Los Angeles",
+      "Miami",
+      "Nova York",
+      "Houston"
+    ],
+    "resposta": 2,
+    "continente": "América do Norte",
+    "regiao": "america-do-norte",
+    "dificuldade": "facil",
+    "tipo": "economia",
+    "pais": "Estados Unidos",
+    "dicas": [
+      "É uma das cidades mais importantes do sistema financeiro mundial.",
+      "Wall Street está localizada no distrito financeiro de Manhattan."
+    ]
+  },
+  {
+    "id": 61,
+    "pergunta": "Qual é a capital da Costa Rica?",
+    "alternativas": [
+      "Manágua",
+      "San José",
+      "Tegucigalpa",
+      "Panamá"
+    ],
+    "resposta": 1,
+    "continente": "América Central",
+    "regiao": "america-central",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "Costa Rica",
+    "dicas": [
+      "É a maior cidade do país.",
+      "Seu nome também é compartilhado por várias cidades em outros países."
+    ]
+  },
+  {
+    "id": 62,
+    "pergunta": "Qual país da América Central é conhecido por possuir o Canal do Panamá?",
+    "alternativas": [
+      "Costa Rica",
+      "Panamá",
+      "Nicarágua",
+      "Honduras"
+    ],
+    "resposta": 1,
+    "continente": "América Central",
+    "regiao": "america-central",
+    "dificuldade": "facil",
+    "tipo": "geografia",
+    "pais": "Panamá",
+    "dicas": [
+      "O canal conecta o Oceano Atlântico ao Oceano Pacífico.",
+      "O país está localizado entre a América do Norte e a América do Sul."
+    ]
+  },
+  {
+    "id": 63,
+    "pergunta": "Qual é a principal importância econômica do Canal do Panamá?",
+    "alternativas": [
+      "Produzir energia elétrica",
+      "Facilitar o transporte marítimo entre oceanos",
+      "Produzir petróleo",
+      "Fornecer água potável"
+    ],
+    "resposta": 1,
+    "continente": "América Central",
+    "regiao": "america-central",
+    "dificuldade": "facil",
+    "tipo": "economia",
+    "pais": "Panamá",
+    "dicas": [
+      "Ele reduz a necessidade de navios contornarem a América do Sul.",
+      "É uma importante rota do comércio marítimo mundial."
+    ]
+  },
+  {
+    "id": 64,
+    "pergunta": "Qual país da América Central é conhecido por sua grande quantidade de vulcões?",
+    "alternativas": [
+      "Guatemala",
+      "Belize",
+      "Panamá",
+      "Jamaica"
+    ],
+    "resposta": 0,
+    "continente": "América Central",
+    "regiao": "america-central",
+    "dificuldade": "medio",
+    "tipo": "relevo",
+    "pais": "Guatemala",
+    "dicas": [
+      "O país está localizado em uma região de intensa atividade tectônica.",
+      "Entre seus vulcões está o Vulcão de Fuego."
+    ]
+  },
+  {
+    "id": 65,
+    "pergunta": "Qual é a capital da Guatemala?",
+    "alternativas": [
+      "Cidade da Guatemala",
+      "San Salvador",
+      "Belmopan",
+      "Manágua"
+    ],
+    "resposta": 0,
+    "continente": "América Central",
+    "regiao": "america-central",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "Guatemala",
+    "dicas": [
+      "É a maior cidade do país.",
+      "Seu nome é praticamente o mesmo nome do país."
+    ]
+  },
+  {
+    "id": 66,
+    "pergunta": "Qual povo pré-colombiano desenvolveu uma importante civilização na América Central?",
+    "alternativas": [
+      "Maias",
+      "Incas",
+      "Romanos",
+      "Vikings"
+    ],
+    "resposta": 0,
+    "continente": "América Central",
+    "regiao": "america-central",
+    "dificuldade": "facil",
+    "tipo": "historia",
+    "pais": "Guatemala",
+    "dicas": [
+      "Essa civilização desenvolveu conhecimentos avançados de astronomia e matemática.",
+      "Suas cidades estavam espalhadas por regiões do México e da América Central."
+    ]
+  },
+  {
+    "id": 67,
+    "pergunta": "Qual é a capital de Cuba?",
+    "alternativas": [
+      "Santiago de Cuba",
+      "Havana",
+      "Camagüey",
+      "Varadero"
+    ],
+    "resposta": 1,
+    "continente": "Caribe",
+    "regiao": "caribe",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "Cuba",
+    "dicas": [
+      "É a maior cidade do país.",
+      "É conhecida por seu centro histórico e arquitetura colonial."
+    ]
+  },
+  {
+    "id": 68,
+    "pergunta": "Qual produto agrícola é historicamente importante para a economia de Cuba?",
+    "alternativas": [
+      "Cana-de-açúcar",
+      "Trigo",
+      "Cevada",
+      "Uva"
+    ],
+    "resposta": 0,
+    "continente": "Caribe",
+    "regiao": "caribe",
+    "dificuldade": "facil",
+    "tipo": "economia",
+    "pais": "Cuba",
+    "dicas": [
+      "O produto é utilizado na fabricação de açúcar.",
+      "A atividade teve grande importância na história econômica da ilha."
+    ]
+  },
+  {
+    "id": 69,
+    "pergunta": "Qual país é conhecido mundialmente por suas praias e pelo turismo no Caribe?",
+    "alternativas": [
+      "Jamaica",
+      "Bolívia",
+      "Paraguai",
+      "Honduras"
+    ],
+    "resposta": 0,
+    "continente": "Caribe",
+    "regiao": "caribe",
+    "dificuldade": "facil",
+    "tipo": "turismo",
+    "pais": "Jamaica",
+    "dicas": [
+      "É uma ilha localizada no Mar do Caribe.",
+      "Também é conhecida pela cultura reggae."
+    ]
+  },
+  {
+    "id": 70,
+    "pergunta": "Qual gênero musical surgiu na Jamaica e se tornou conhecido mundialmente?",
+    "alternativas": [
+      "Reggae",
+      "Tango",
+      "Samba",
+      "Fado"
+    ],
+    "resposta": 0,
+    "continente": "Caribe",
+    "regiao": "caribe",
+    "dificuldade": "facil",
+    "tipo": "cultura",
+    "pais": "Jamaica",
+    "dicas": [
+      "O gênero está fortemente associado à cultura jamaicana.",
+      "Bob Marley foi um dos seus artistas mais conhecidos."
+    ]
+  },
+  {
+    "id": 71,
+    "pergunta": "Qual é a capital da República Dominicana?",
+    "alternativas": [
+      "Santo Domingo",
+      "Santiago",
+      "Punta Cana",
+      "Puerto Plata"
+    ],
+    "resposta": 0,
+    "continente": "Caribe",
+    "regiao": "caribe",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "República Dominicana",
+    "dicas": [
+      "É uma das cidades mais antigas fundadas por europeus nas Américas.",
+      "Está localizada na ilha Hispaniola."
+    ]
+  },
+  {
+    "id": 72,
+    "pergunta": "Qual ilha é compartilhada por Haiti e República Dominicana?",
+    "alternativas": [
+      "Cuba",
+      "Hispaniola",
+      "Jamaica",
+      "Porto Rico"
+    ],
+    "resposta": 1,
+    "continente": "Caribe",
+    "regiao": "caribe",
+    "dificuldade": "medio",
+    "tipo": "geografia",
+    "pais": "República Dominicana",
+    "dicas": [
+      "A ilha está localizada no Caribe.",
+      "Dois países independentes ocupam seu território."
+    ]
+  },
+  {
+    "id": 73,
+    "pergunta": "Qual é a capital do Panamá?",
+    "alternativas": [
+      "Colón",
+      "David",
+      "Cidade do Panamá",
+      "Chitré"
+    ],
+    "resposta": 2,
+    "continente": "América Central",
+    "regiao": "america-central",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "Panamá",
+    "dicas": [
+      "É o principal centro econômico do país.",
+      "Está localizada próxima à entrada do Canal do Panamá pelo Pacífico."
+    ]
+  },
+  {
+    "id": 74,
+    "pergunta": "Qual bioma é predominante em muitas áreas da América Central devido ao clima quente e úmido?",
+    "alternativas": [
+      "Florestas tropicais",
+      "Tundra",
+      "Taiga",
+      "Deserto polar"
+    ],
+    "resposta": 0,
+    "continente": "América Central",
+    "regiao": "america-central",
+    "dificuldade": "facil",
+    "tipo": "bioma",
+    "pais": "Costa Rica",
+    "dicas": [
+      "A região possui altas temperaturas e muita umidade.",
+      "A biodiversidade é bastante elevada."
+    ]
+  },
+  {
+    "id": 75,
+    "pergunta": "Qual país da América Central é conhecido por sua política de preservação ambiental e grande quantidade de áreas protegidas?",
+    "alternativas": [
+      "Costa Rica",
+      "Honduras",
+      "Nicarágua",
+      "El Salvador"
+    ],
+    "resposta": 0,
+    "continente": "América Central",
+    "regiao": "america-central",
+    "dificuldade": "medio",
+    "tipo": "meio-ambiente",
+    "pais": "Costa Rica",
+    "dicas": [
+      "O ecoturismo possui grande importância no país.",
+      "O território possui numerosos parques nacionais e áreas protegidas."
+    ]
+  },
+  {
+    "id": 76,
+    "pergunta": "Qual país da América Central possui o maior território?",
+    "alternativas": [
+      "Guatemala",
+      "Nicarágua",
+      "Costa Rica",
+      "El Salvador"
+    ],
+    "resposta": 1,
+    "continente": "América Central",
+    "regiao": "america-central",
+    "dificuldade": "medio",
+    "tipo": "geografia",
+    "pais": "Nicarágua",
+    "dicas": [
+      "É o maior país da América Central em área.",
+      "Possui grandes lagos e vulcões."
+    ]
+  },
+  {
+    "id": 77,
+    "pergunta": "Qual é o maior lago da América Central?",
+    "alternativas": [
+      "Lago Nicarágua",
+      "Lago Titicaca",
+      "Lago Atitlán",
+      "Lago Gatún"
+    ],
+    "resposta": 0,
+    "continente": "América Central",
+    "regiao": "america-central",
+    "dificuldade": "medio",
+    "tipo": "hidrografia",
+    "pais": "Nicarágua",
+    "dicas": [
+      "Está localizado no país que possui o mesmo nome.",
+      "É um dos maiores lagos de água doce da América Latina."
+    ]
+  },
+  {
+    "id": 78,
+    "pergunta": "Qual país da América Central é conhecido por possuir uma grande produção de bananas e café?",
+    "alternativas": [
+      "Costa Rica",
+      "Belize",
+      "El Salvador",
+      "Panamá"
+    ],
+    "resposta": 0,
+    "continente": "América Central",
+    "regiao": "america-central",
+    "dificuldade": "medio",
+    "tipo": "economia",
+    "pais": "Costa Rica",
+    "dicas": [
+      "A agricultura possui importância histórica na economia do país.",
+      "O país também se destaca pelo turismo e pelo ecoturismo."
+    ]
+  },
+  {
+    "id": 79,
+    "pergunta": "Qual país da América Central é o único que possui o inglês como língua oficial?",
+    "alternativas": [
+      "Belize",
+      "Guatemala",
+      "Honduras",
+      "Nicarágua"
+    ],
+    "resposta": 0,
+    "continente": "América Central",
+    "regiao": "america-central",
+    "dificuldade": "medio",
+    "tipo": "cultura",
+    "pais": "Belize",
+    "dicas": [
+      "O país está localizado na costa do Mar do Caribe.",
+      "Possui forte influência cultural britânica."
+    ]
+  },
+  {
+    "id": 80,
+    "pergunta": "Qual é uma das principais atividades econômicas de várias ilhas do Caribe?",
+    "alternativas": [
+      "Turismo",
+      "Produção de trigo",
+      "Extração de carvão em grande escala",
+      "Cultivo de arroz em clima frio"
+    ],
+    "resposta": 0,
+    "continente": "Caribe",
+    "regiao": "caribe",
+    "dificuldade": "facil",
+    "tipo": "economia",
+    "pais": "Jamaica",
+    "dicas": [
+      "As praias e paisagens tropicais atraem visitantes de vários países.",
+      "Hotéis, restaurantes e serviços são importantes para essa atividade."
+    ]
+  },
+  {
+    "id": 81,
+    "pergunta": "Qual é a capital da França?",
+    "alternativas": [
+      "Lyon",
+      "Marselha",
+      "Paris",
+      "Nice"
+    ],
+    "resposta": 2,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "França",
+    "dicas": [
+      "É uma das cidades mais visitadas do mundo.",
+      "É conhecida por monumentos como a Torre Eiffel."
+    ]
+  },
+  {
+    "id": 82,
+    "pergunta": "Qual é a capital da Alemanha?",
+    "alternativas": [
+      "Munique",
+      "Berlim",
+      "Hamburgo",
+      "Frankfurt"
+    ],
+    "resposta": 1,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "Alemanha",
+    "dicas": [
+      "A cidade foi dividida durante parte da Guerra Fria.",
+      "O Portão de Brandemburgo é um de seus principais símbolos."
+    ]
+  },
+  {
+    "id": 83,
+    "pergunta": "Qual é o maior país da Europa em extensão territorial?",
+    "alternativas": [
+      "Alemanha",
+      "França",
+      "Rússia",
+      "Espanha"
+    ],
+    "resposta": 2,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "facil",
+    "tipo": "geografia",
+    "pais": "Rússia",
+    "dicas": [
+      "O território desse país se estende pela Europa e pela Ásia.",
+      "É o maior país do mundo em extensão territorial."
+    ]
+  },
+  {
+    "id": 84,
+    "pergunta": "Qual é a capital da Itália?",
+    "alternativas": [
+      "Milão",
+      "Veneza",
+      "Roma",
+      "Nápoles"
+    ],
+    "resposta": 2,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "Itália",
+    "dicas": [
+      "A cidade possui uma história de mais de dois milênios.",
+      "O Vaticano está localizado dentro de seu território urbano."
+    ]
+  },
+  {
+    "id": 85,
+    "pergunta": "Qual cordilheira separa tradicionalmente a Europa da Ásia?",
+    "alternativas": [
+      "Alpes",
+      "Pireneus",
+      "Montes Urais",
+      "Cárpatos"
+    ],
+    "resposta": 2,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "medio",
+    "tipo": "relevo",
+    "pais": "Rússia",
+    "dicas": [
+      "Essa cadeia montanhosa está localizada principalmente na Rússia.",
+      "É considerada uma das divisões geográficas entre Europa e Ásia."
+    ]
+  },
+  {
+    "id": 86,
+    "pergunta": "Qual é o rio mais longo da Europa?",
+    "alternativas": [
+      "Danúbio",
+      "Reno",
+      "Volga",
+      "Sena"
+    ],
+    "resposta": 2,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "facil",
+    "tipo": "hidrografia",
+    "pais": "Rússia",
+    "dicas": [
+      "Ele atravessa a parte europeia da Rússia.",
+      "Deságua no Mar Cáspio."
+    ]
+  },
+  {
+    "id": 87,
+    "pergunta": "Qual rio europeu atravessa várias capitais, incluindo Viena, Bratislava, Budapeste e Belgrado?",
+    "alternativas": [
+      "Danúbio",
+      "Volga",
+      "Tâmisa",
+      "Reno"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "medio",
+    "tipo": "hidrografia",
+    "pais": "Áustria",
+    "dicas": [
+      "É um dos rios mais importantes da Europa.",
+      "Passa por vários países antes de chegar ao Mar Negro."
+    ]
+  },
+  {
+    "id": 88,
+    "pergunta": "Qual é a capital da Espanha?",
+    "alternativas": [
+      "Barcelona",
+      "Sevilha",
+      "Madri",
+      "Valência"
+    ],
+    "resposta": 2,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "Espanha",
+    "dicas": [
+      "É a maior cidade do país.",
+      "Está localizada aproximadamente no centro da Península Ibérica."
+    ]
+  },
+  {
+    "id": 89,
+    "pergunta": "Qual país europeu é conhecido pela produção de automóveis de marcas como Volkswagen, BMW e Mercedes-Benz?",
+    "alternativas": [
+      "Portugal",
+      "Alemanha",
+      "Grécia",
+      "Noruega"
+    ],
+    "resposta": 1,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "facil",
+    "tipo": "economia",
+    "pais": "Alemanha",
+    "dicas": [
+      "A indústria automobilística é um dos setores importantes de sua economia.",
+      "É uma das maiores economias da Europa."
+    ]
+  },
+  {
+    "id": 90,
+    "pergunta": "Qual país europeu é um dos maiores produtores de azeite de oliva do mundo?",
+    "alternativas": [
+      "Espanha",
+      "Noruega",
+      "Suécia",
+      "Irlanda"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "facil",
+    "tipo": "economia",
+    "pais": "Espanha",
+    "dicas": [
+      "O país possui extensas plantações de oliveiras.",
+      "O clima mediterrâneo favorece esse cultivo."
+    ]
+  },
+  {
+    "id": 91,
+    "pergunta": "Qual clima predomina em grande parte da região sul da Europa, especialmente próximo ao Mar Mediterrâneo?",
+    "alternativas": [
+      "Mediterrâneo",
+      "Polar",
+      "Desértico",
+      "Equatorial"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "facil",
+    "tipo": "clima",
+    "pais": "Itália",
+    "dicas": [
+      "Os verões costumam ser quentes e secos.",
+      "Os invernos tendem a ser mais amenos e chuvosos."
+    ]
+  },
+  {
+    "id": 92,
+    "pergunta": "Qual cadeia montanhosa é famosa por atravessar países como França, Suíça, Itália e Áustria?",
+    "alternativas": [
+      "Andes",
+      "Alpes",
+      "Himalaia",
+      "Montes Urais"
+    ],
+    "resposta": 1,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "facil",
+    "tipo": "relevo",
+    "pais": "Suíça",
+    "dicas": [
+      "É uma das principais cadeias montanhosas da Europa.",
+      "O Mont Blanc está localizado nessa região."
+    ]
+  },
+  {
+    "id": 93,
+    "pergunta": "Qual país europeu é conhecido por sua grande produção de energia hidrelétrica?",
+    "alternativas": [
+      "Noruega",
+      "Portugal",
+      "Grécia",
+      "Dinamarca"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "medio",
+    "tipo": "energia",
+    "pais": "Noruega",
+    "dicas": [
+      "O país possui muitos rios e grandes desníveis de relevo.",
+      "A energia hidrelétrica tem papel importante em sua matriz energética."
+    ]
+  },
+  {
+    "id": 94,
+    "pergunta": "Qual é a capital de Portugal?",
+    "alternativas": [
+      "Porto",
+      "Lisboa",
+      "Braga",
+      "Coimbra"
+    ],
+    "resposta": 1,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "Portugal",
+    "dicas": [
+      "É uma cidade localizada às margens do Rio Tejo.",
+      "É a maior cidade do país."
+    ]
+  },
+  {
+    "id": 95,
+    "pergunta": "Qual país europeu possui o maior número de habitantes?",
+    "alternativas": [
+      "França",
+      "Alemanha",
+      "Itália",
+      "Espanha"
+    ],
+    "resposta": 1,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "facil",
+    "tipo": "populacao",
+    "pais": "Alemanha",
+    "dicas": [
+      "É um dos principais centros econômicos da Europa.",
+      "Sua capital é Berlim."
+    ]
+  },
+  {
+    "id": 96,
+    "pergunta": "Qual país europeu é conhecido por possuir vastas áreas de floresta boreal?",
+    "alternativas": [
+      "Finlândia",
+      "Portugal",
+      "Grécia",
+      "Malta"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "medio",
+    "tipo": "bioma",
+    "pais": "Finlândia",
+    "dicas": [
+      "O país possui milhares de lagos e extensas florestas.",
+      "Grande parte de seu território está localizada em altas latitudes."
+    ]
+  },
+  {
+    "id": 97,
+    "pergunta": "Qual é a capital do Reino Unido?",
+    "alternativas": [
+      "Manchester",
+      "Liverpool",
+      "Londres",
+      "Edimburgo"
+    ],
+    "resposta": 2,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "Reino Unido",
+    "dicas": [
+      "O Rio Tâmisa atravessa a cidade.",
+      "É um dos principais centros financeiros do mundo."
+    ]
+  },
+  {
+    "id": 98,
+    "pergunta": "Qual país europeu é conhecido por possuir uma economia fortemente ligada ao turismo e às ilhas do Mar Egeu?",
+    "alternativas": [
+      "Grécia",
+      "Bélgica",
+      "Polônia",
+      "Suíça"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "facil",
+    "tipo": "economia",
+    "pais": "Grécia",
+    "dicas": [
+      "O país possui milhares de ilhas.",
+      "A atividade turística é muito importante para sua economia."
+    ]
+  },
+  {
+    "id": 99,
+    "pergunta": "Qual cidade é conhecida como um importante centro financeiro europeu e abriga a Bolsa de Londres?",
+    "alternativas": [
+      "Londres",
+      "Roma",
+      "Lisboa",
+      "Atenas"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "facil",
+    "tipo": "economia",
+    "pais": "Reino Unido",
+    "dicas": [
+      "É a capital do Reino Unido.",
+      "O distrito financeiro da cidade é conhecido como City of London."
+    ]
+  },
+  {
+    "id": 100,
+    "pergunta": "Qual país europeu é famoso pela indústria relojoeira e pelos serviços financeiros?",
+    "alternativas": [
+      "Suíça",
+      "Romênia",
+      "Croácia",
+      "Bulgária"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "facil",
+    "tipo": "economia",
+    "pais": "Suíça",
+    "dicas": [
+      "O país não faz parte da União Europeia.",
+      "É conhecido mundialmente pela fabricação de relógios."
+    ]
+  },
+  {
+    "id": 101,
+    "pergunta": "Qual país europeu possui uma grande quantidade de fiordes?",
+    "alternativas": [
+      "Noruega",
+      "Hungria",
+      "Polônia",
+      "Bélgica"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "facil",
+    "tipo": "relevo",
+    "pais": "Noruega",
+    "dicas": [
+      "O país possui uma longa costa no norte da Europa.",
+      "Os fiordes foram formados pela ação de antigas geleiras."
+    ]
+  },
+  {
+    "id": 102,
+    "pergunta": "Qual mar está localizado entre a Europa e a África?",
+    "alternativas": [
+      "Mar Mediterrâneo",
+      "Mar do Norte",
+      "Mar Báltico",
+      "Mar Negro"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "facil",
+    "tipo": "geografia",
+    "pais": "Itália",
+    "dicas": [
+      "É um dos mares mais importantes para a história europeia.",
+      "Conecta-se ao Oceano Atlântico pelo Estreito de Gibraltar."
+    ]
+  },
+  {
+    "id": 103,
+    "pergunta": "Qual país europeu possui uma extensa costa no Oceano Atlântico e é conhecido pela produção de vinho do Porto?",
+    "alternativas": [
+      "Portugal",
+      "Suécia",
+      "Polônia",
+      "Áustria"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "facil",
+    "tipo": "economia",
+    "pais": "Portugal",
+    "dicas": [
+      "O vinho é associado à região do Douro.",
+      "O país está localizado na parte oeste da Península Ibérica."
+    ]
+  },
+  {
+    "id": 104,
+    "pergunta": "Qual país europeu possui a maior economia da União Europeia?",
+    "alternativas": [
+      "Alemanha",
+      "Portugal",
+      "Grécia",
+      "Hungria"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "facil",
+    "tipo": "economia",
+    "pais": "Alemanha",
+    "dicas": [
+      "A indústria possui grande importância em sua economia.",
+      "É um dos principais exportadores de produtos industriais do mundo."
+    ]
+  },
+  {
+    "id": 105,
+    "pergunta": "Qual país europeu é conhecido por possuir uma grande produção de trigo, milho e girassol?",
+    "alternativas": [
+      "Ucrânia",
+      "Islândia",
+      "Noruega",
+      "Irlanda"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "medio",
+    "tipo": "agricultura",
+    "pais": "Ucrânia",
+    "dicas": [
+      "O país possui extensas áreas de solos muito férteis.",
+      "É frequentemente associado às chamadas terras negras."
+    ]
+  },
+  {
+    "id": 106,
+    "pergunta": "Qual país é conhecido como a 'terra dos mil lagos'?",
+    "alternativas": [
+      "Finlândia",
+      "França",
+      "Itália",
+      "Espanha"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "facil",
+    "tipo": "geografia",
+    "pais": "Finlândia",
+    "dicas": [
+      "O país possui dezenas de milhares de lagos.",
+      "Está localizado no norte da Europa."
+    ]
+  },
+  {
+    "id": 107,
+    "pergunta": "Qual é a capital da Grécia?",
+    "alternativas": [
+      "Atenas",
+      "Esparta",
+      "Salônica",
+      "Patras"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "Grécia",
+    "dicas": [
+      "A cidade possui uma das histórias mais antigas da Europa.",
+      "A Acrópole é um de seus principais pontos históricos."
+    ]
+  },
+  {
+    "id": 108,
+    "pergunta": "Qual país europeu possui uma das maiores áreas de floresta boreal do continente?",
+    "alternativas": [
+      "Suécia",
+      "Espanha",
+      "Grécia",
+      "Itália"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "medio",
+    "tipo": "bioma",
+    "pais": "Suécia",
+    "dicas": [
+      "Grande parte do país é coberta por florestas.",
+      "Está localizado no norte da Europa."
+    ]
+  },
+  {
+    "id": 109,
+    "pergunta": "Qual foi o país onde começou a Revolução Industrial?",
+    "alternativas": [
+      "França",
+      "Reino Unido",
+      "Alemanha",
+      "Itália"
+    ],
+    "resposta": 1,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "facil",
+    "tipo": "historia",
+    "pais": "Reino Unido",
+    "dicas": [
+      "O processo começou no século XVIII.",
+      "Máquinas a vapor e fábricas tiveram papel importante."
+    ]
+  },
+  {
+    "id": 110,
+    "pergunta": "Qual país europeu é conhecido por possuir a região da Transilvânia?",
+    "alternativas": [
+      "Romênia",
+      "Bulgária",
+      "Sérvia",
+      "Croácia"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "medio",
+    "tipo": "geografia",
+    "pais": "Romênia",
+    "dicas": [
+      "A região está localizada no centro do país.",
+      "É frequentemente associada às histórias sobre o Conde Drácula."
+    ]
+  },
+  {
+    "id": 111,
+    "pergunta": "Qual é a capital da Rússia?",
+    "alternativas": [
+      "São Petersburgo",
+      "Moscou",
+      "Kazan",
+      "Novosibirsk"
+    ],
+    "resposta": 1,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "Rússia",
+    "dicas": [
+      "É a maior cidade do país.",
+      "O Kremlin está localizado nessa cidade."
+    ]
+  },
+  {
+    "id": 112,
+    "pergunta": "Qual país europeu é conhecido por possuir importantes reservas de gás natural no Mar do Norte?",
+    "alternativas": [
+      "Noruega",
+      "Portugal",
+      "Suíça",
+      "Áustria"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "medio",
+    "tipo": "recursos-naturais",
+    "pais": "Noruega",
+    "dicas": [
+      "O petróleo e o gás possuem grande importância para sua economia.",
+      "O país possui uma extensa costa no Atlântico Norte."
+    ]
+  },
+  {
+    "id": 113,
+    "pergunta": "Qual país europeu é conhecido pela produção de queijo, chocolate e relógios?",
+    "alternativas": [
+      "Suíça",
+      "Polônia",
+      "Croácia",
+      "Irlanda"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "facil",
+    "tipo": "cultura",
+    "pais": "Suíça",
+    "dicas": [
+      "É um país localizado nos Alpes.",
+      "Possui quatro línguas nacionais."
+    ]
+  },
+  {
+    "id": 114,
+    "pergunta": "Qual é o nome da floresta que se estende por partes da Alemanha, Polônia e outros países europeus?",
+    "alternativas": [
+      "Floresta Negra",
+      "Floresta Amazônica",
+      "Taiga Siberiana",
+      "Floresta do Congo"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "medio",
+    "tipo": "bioma",
+    "pais": "Alemanha",
+    "dicas": [
+      "Seu nome em alemão é Schwarzwald.",
+      "Está localizada no sudoeste da Alemanha."
+    ]
+  },
+  {
+    "id": 115,
+    "pergunta": "Qual país europeu é conhecido por sua produção de tulipas e pelo cultivo de flores?",
+    "alternativas": [
+      "Países Baixos",
+      "Grécia",
+      "Romênia",
+      "Finlândia"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "facil",
+    "tipo": "agricultura",
+    "pais": "Países Baixos",
+    "dicas": [
+      "O país é famoso pelos campos de tulipas.",
+      "A produção e exportação de flores possui grande importância econômica."
+    ]
+  },
+  {
+    "id": 116,
+    "pergunta": "Qual país europeu possui grande parte de seu território formado por planícies e é conhecido por sua produção agrícola?",
+    "alternativas": [
+      "Hungria",
+      "Noruega",
+      "Islândia",
+      "Suíça"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "medio",
+    "tipo": "geografia",
+    "pais": "Hungria",
+    "dicas": [
+      "O país está localizado na Europa Central.",
+      "O Rio Danúbio atravessa seu território."
+    ]
+  },
+  {
+    "id": 117,
+    "pergunta": "Qual país europeu é famoso por possuir gêiseres e atividade vulcânica intensa?",
+    "alternativas": [
+      "Islândia",
+      "Bélgica",
+      "Portugal",
+      "Polônia"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "facil",
+    "tipo": "vulcanismo",
+    "pais": "Islândia",
+    "dicas": [
+      "O país está localizado sobre a Dorsal Mesoatlântica.",
+      "A energia geotérmica é muito importante para sua população."
+    ]
+  },
+  {
+    "id": 118,
+    "pergunta": "Qual país europeu possui uma das maiores redes de transporte ferroviário de alta velocidade?",
+    "alternativas": [
+      "França",
+      "Irlanda",
+      "Islândia",
+      "Malta"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "medio",
+    "tipo": "infraestrutura",
+    "pais": "França",
+    "dicas": [
+      "Seu sistema de trens de alta velocidade é conhecido como TGV.",
+      "Paris é o principal centro ferroviário do país."
+    ]
+  },
+  {
+    "id": 119,
+    "pergunta": "Qual país europeu possui uma economia fortemente ligada à indústria química, farmacêutica e de máquinas?",
+    "alternativas": [
+      "Alemanha",
+      "Grécia",
+      "Islândia",
+      "Malta"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "medio",
+    "tipo": "economia",
+    "pais": "Alemanha",
+    "dicas": [
+      "A indústria é um dos pilares de sua economia.",
+      "O país possui grandes empresas industriais e tecnológicas."
+    ]
+  },
+  {
+    "id": 120,
+    "pergunta": "Qual país europeu é conhecido por possuir muitas ilhas e por ter uma grande atividade pesqueira?",
+    "alternativas": [
+      "Noruega",
+      "Hungria",
+      "Suíça",
+      "Áustria"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "medio",
+    "tipo": "economia",
+    "pais": "Noruega",
+    "dicas": [
+      "O país possui uma extensa costa e milhares de ilhas.",
+      "A pesca e a aquicultura possuem grande importância econômica."
+    ]
+  },
+  {
+    "id": 121,
+    "pergunta": "Qual é a capital do Egito?",
+    "alternativas": [
+      "Alexandria",
+      "Cairo",
+      "Luxor",
+      "Gizé"
+    ],
+    "resposta": 1,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "Egito",
+    "dicas": [
+      "É uma das maiores cidades da África.",
+      "Está localizada próxima ao Rio Nilo."
+    ]
+  },
+  {
+    "id": 122,
+    "pergunta": "Qual é o maior deserto da África?",
+    "alternativas": [
+      "Kalahari",
+      "Saara",
+      "Namibe",
+      "Atacama"
+    ],
+    "resposta": 1,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "facil",
+    "tipo": "bioma",
+    "pais": "Egito",
+    "dicas": [
+      "Ocupa grande parte do norte da África.",
+      "É um dos maiores desertos quentes do mundo."
+    ]
+  },
+  {
+    "id": 123,
+    "pergunta": "Qual rio é fundamental para a agricultura e para a população do Egito?",
+    "alternativas": [
+      "Rio Congo",
+      "Rio Níger",
+      "Rio Nilo",
+      "Rio Zambeze"
+    ],
+    "resposta": 2,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "facil",
+    "tipo": "hidrografia",
+    "pais": "Egito",
+    "dicas": [
+      "É um dos rios mais famosos do mundo.",
+      "Suas águas foram fundamentais para o desenvolvimento da civilização egípcia."
+    ]
+  },
+  {
+    "id": 124,
+    "pergunta": "Qual país africano é conhecido por possuir as famosas Pirâmides de Gizé?",
+    "alternativas": [
+      "Egito",
+      "Marrocos",
+      "Sudão",
+      "Tunísia"
+    ],
+    "resposta": 0,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "facil",
+    "tipo": "historia",
+    "pais": "Egito",
+    "dicas": [
+      "As pirâmides foram construídas na Antiguidade.",
+      "A Grande Pirâmide é uma das Sete Maravilhas do Mundo Antigo."
+    ]
+  },
+  {
+    "id": 125,
+    "pergunta": "Qual é a capital da África do Sul?",
+    "alternativas": [
+      "Joanesburgo",
+      "Cidade do Cabo",
+      "Pretória",
+      "Durban"
+    ],
+    "resposta": 2,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "medio",
+    "tipo": "capital",
+    "pais": "África do Sul",
+    "dicas": [
+      "O país possui mais de uma capital.",
+      "Essa cidade é a sede do Poder Executivo."
+    ]
+  },
+  {
+    "id": 126,
+    "pergunta": "Qual país africano é um dos maiores produtores de cacau do mundo?",
+    "alternativas": [
+      "Costa do Marfim",
+      "Egito",
+      "Líbia",
+      "Namíbia"
+    ],
+    "resposta": 0,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "facil",
+    "tipo": "economia",
+    "pais": "Costa do Marfim",
+    "dicas": [
+      "O cacau é um dos principais produtos agrícolas do país.",
+      "Está localizado na costa oeste da África."
+    ]
+  },
+  {
+    "id": 127,
+    "pergunta": "Qual é o maior país da África em extensão territorial?",
+    "alternativas": [
+      "Egito",
+      "Argélia",
+      "Nigéria",
+      "Sudão"
+    ],
+    "resposta": 1,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "facil",
+    "tipo": "geografia",
+    "pais": "Argélia",
+    "dicas": [
+      "Grande parte do seu território está localizada no Deserto do Saara.",
+      "É o maior país do continente africano."
+    ]
+  },
+  {
+    "id": 128,
+    "pergunta": "Qual é o bioma predominante em grande parte da região central da África?",
+    "alternativas": [
+      "Floresta tropical",
+      "Tundra",
+      "Taiga",
+      "Deserto polar"
+    ],
+    "resposta": 0,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "facil",
+    "tipo": "bioma",
+    "pais": "República Democrática do Congo",
+    "dicas": [
+      "A região possui clima quente e úmido.",
+      "A Floresta do Congo está entre as maiores florestas tropicais do planeta."
+    ]
+  },
+  {
+    "id": 129,
+    "pergunta": "Qual é o segundo maior rio da África em extensão, depois do Nilo?",
+    "alternativas": [
+      "Rio Congo",
+      "Rio Níger",
+      "Rio Zambeze",
+      "Rio Orange"
+    ],
+    "resposta": 0,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "medio",
+    "tipo": "hidrografia",
+    "pais": "República Democrática do Congo",
+    "dicas": [
+      "É um dos rios mais importantes da África Central.",
+      "Possui uma das maiores vazões de água do mundo."
+    ]
+  },
+  {
+    "id": 130,
+    "pergunta": "Qual país africano possui uma das maiores populações do continente?",
+    "alternativas": [
+      "Nigéria",
+      "Namíbia",
+      "Botsuana",
+      "Gabão"
+    ],
+    "resposta": 0,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "facil",
+    "tipo": "populacao",
+    "pais": "Nigéria",
+    "dicas": [
+      "É o país mais populoso da África.",
+      "Lagos é uma de suas maiores cidades."
+    ]
+  },
+  {
+    "id": 131,
+    "pergunta": "Qual é a capital da Nigéria?",
+    "alternativas": [
+      "Lagos",
+      "Abuja",
+      "Kano",
+      "Ibadan"
+    ],
+    "resposta": 1,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "Nigéria",
+    "dicas": [
+      "Não é a cidade mais populosa do país.",
+      "Tornou-se capital no final do século XX."
+    ]
+  },
+  {
+    "id": 132,
+    "pergunta": "Qual recurso natural possui grande importância para a economia da Nigéria?",
+    "alternativas": [
+      "Petróleo",
+      "Carvão vegetal",
+      "Trigo",
+      "Borracha de clima frio"
+    ],
+    "resposta": 0,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "facil",
+    "tipo": "recursos-naturais",
+    "pais": "Nigéria",
+    "dicas": [
+      "Grande parte da produção está concentrada na região do Delta do Níger.",
+      "É um importante produto de exportação do país."
+    ]
+  },
+  {
+    "id": 133,
+    "pergunta": "Qual é a capital do Quênia?",
+    "alternativas": [
+      "Mombaça",
+      "Nairóbi",
+      "Kisumu",
+      "Nakuru"
+    ],
+    "resposta": 1,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "Quênia",
+    "dicas": [
+      "É uma das principais cidades da África Oriental.",
+      "Possui um parque nacional localizado próximo à área urbana."
+    ]
+  },
+  {
+    "id": 134,
+    "pergunta": "Qual bioma é conhecido por suas grandes áreas de gramíneas e árvores espalhadas, sendo comum no Quênia?",
+    "alternativas": [
+      "Savana",
+      "Tundra",
+      "Taiga",
+      "Floresta temperada"
+    ],
+    "resposta": 0,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "facil",
+    "tipo": "bioma",
+    "pais": "Quênia",
+    "dicas": [
+      "É um ambiente típico de muitos animais africanos.",
+      "Leões, elefantes e girafas podem ser encontrados nesse ambiente."
+    ]
+  },
+  {
+    "id": 135,
+    "pergunta": "Qual montanha é a mais alta da África?",
+    "alternativas": [
+      "Monte Quênia",
+      "Monte Kilimanjaro",
+      "Montes Atlas",
+      "Monte Elgon"
+    ],
+    "resposta": 1,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "facil",
+    "tipo": "relevo",
+    "pais": "Tanzânia",
+    "dicas": [
+      "Está localizado na Tanzânia.",
+      "Seu ponto mais alto é o Pico Uhuru."
+    ]
+  },
+  {
+    "id": 136,
+    "pergunta": "Qual país africano possui o Monte Kilimanjaro?",
+    "alternativas": [
+      "Quênia",
+      "Tanzânia",
+      "Uganda",
+      "Etiópia"
+    ],
+    "resposta": 1,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "facil",
+    "tipo": "relevo",
+    "pais": "Tanzânia",
+    "dicas": [
+      "A montanha está próxima da fronteira com o Quênia.",
+      "É um dos principais pontos turísticos naturais da África."
+    ]
+  },
+  {
+    "id": 137,
+    "pergunta": "Qual país africano é conhecido por suas grandes reservas de vida selvagem e pelo turismo de safári?",
+    "alternativas": [
+      "Quênia",
+      "Argélia",
+      "Líbia",
+      "Tunísia"
+    ],
+    "resposta": 0,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "facil",
+    "tipo": "turismo",
+    "pais": "Quênia",
+    "dicas": [
+      "O país possui importantes parques e reservas naturais.",
+      "A Reserva Nacional Maasai Mara é um de seus principais destinos."
+    ]
+  },
+  {
+    "id": 138,
+    "pergunta": "Qual é a capital do Marrocos?",
+    "alternativas": [
+      "Casablanca",
+      "Marrakech",
+      "Rabat",
+      "Fez"
+    ],
+    "resposta": 2,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "Marrocos",
+    "dicas": [
+      "É a capital política do país.",
+      "Casablanca é maior, mas não é a capital."
+    ]
+  },
+  {
+    "id": 139,
+    "pergunta": "Qual cadeia montanhosa está localizada no norte da África e atravessa o Marrocos?",
+    "alternativas": [
+      "Montes Atlas",
+      "Montanhas Rochosas",
+      "Cordilheira dos Andes",
+      "Himalaia"
+    ],
+    "resposta": 0,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "facil",
+    "tipo": "relevo",
+    "pais": "Marrocos",
+    "dicas": [
+      "A cadeia montanhosa está presente em vários países do norte africano.",
+      "O Alto Atlas possui algumas das maiores altitudes da região."
+    ]
+  },
+  {
+    "id": 140,
+    "pergunta": "Qual atividade econômica possui grande importância no Marrocos?",
+    "alternativas": [
+      "Turismo",
+      "Cultivo de arroz em clima polar",
+      "Extração de petróleo em grande escala",
+      "Pesca no Oceano Pacífico"
+    ],
+    "resposta": 0,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "facil",
+    "tipo": "economia",
+    "pais": "Marrocos",
+    "dicas": [
+      "Cidades históricas atraem muitos visitantes.",
+      "Marrakech e Fez são importantes destinos turísticos."
+    ]
+  },
+  {
+    "id": 141,
+    "pergunta": "Qual país africano é conhecido pela produção de chá e café?",
+    "alternativas": [
+      "Quênia",
+      "Líbia",
+      "Egito",
+      "Mauritânia"
+    ],
+    "resposta": 0,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "medio",
+    "tipo": "agricultura",
+    "pais": "Quênia",
+    "dicas": [
+      "A agricultura é importante para sua economia.",
+      "O chá está entre seus principais produtos de exportação."
+    ]
+  },
+  {
+    "id": 142,
+    "pergunta": "Qual é a capital da Etiópia?",
+    "alternativas": [
+      "Adis Abeba",
+      "Nairóbi",
+      "Asmara",
+      "Cartum"
+    ],
+    "resposta": 0,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "Etiópia",
+    "dicas": [
+      "É uma das capitais mais altas da África.",
+      "É sede de importantes organizações internacionais africanas."
+    ]
+  },
+  {
+    "id": 143,
+    "pergunta": "Qual país africano é conhecido por nunca ter sido formalmente colonizado durante a partilha da África, mantendo sua independência?",
+    "alternativas": [
+      "Etiópia",
+      "Angola",
+      "Moçambique",
+      "Senegal"
+    ],
+    "resposta": 0,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "medio",
+    "tipo": "historia",
+    "pais": "Etiópia",
+    "dicas": [
+      "O país derrotou a Itália na Batalha de Adwa.",
+      "Possui uma das histórias mais antigas do continente."
+    ]
+  },
+  {
+    "id": 144,
+    "pergunta": "Qual é o maior lago da África em área?",
+    "alternativas": [
+      "Lago Vitória",
+      "Lago Chade",
+      "Lago Tanganica",
+      "Lago Malawi"
+    ],
+    "resposta": 0,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "facil",
+    "tipo": "hidrografia",
+    "pais": "Tanzânia",
+    "dicas": [
+      "É compartilhado por Tanzânia, Uganda e Quênia.",
+      "É uma importante fonte de água e pesca para a região."
+    ]
+  },
+  {
+    "id": 145,
+    "pergunta": "Qual é o maior país africano em população?",
+    "alternativas": [
+      "Nigéria",
+      "Egito",
+      "Etiópia",
+      "África do Sul"
+    ],
+    "resposta": 0,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "facil",
+    "tipo": "populacao",
+    "pais": "Nigéria",
+    "dicas": [
+      "É um dos países mais populosos do mundo.",
+      "Está localizado na África Ocidental."
+    ]
+  },
+  {
+    "id": 146,
+    "pergunta": "Qual país africano é famoso por possuir o Delta do Okavango?",
+    "alternativas": [
+      "Botsuana",
+      "Namíbia",
+      "Angola",
+      "Zâmbia"
+    ],
+    "resposta": 0,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "medio",
+    "tipo": "hidrografia",
+    "pais": "Botsuana",
+    "dicas": [
+      "É um dos maiores deltas interiores do mundo.",
+      "A região possui grande biodiversidade e é importante para o turismo."
+    ]
+  },
+  {
+    "id": 147,
+    "pergunta": "Qual deserto está localizado principalmente na Namíbia?",
+    "alternativas": [
+      "Saara",
+      "Kalahari",
+      "Namibe",
+      "Atacama"
+    ],
+    "resposta": 2,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "medio",
+    "tipo": "bioma",
+    "pais": "Namíbia",
+    "dicas": [
+      "Está localizado ao longo da costa sudoeste da África.",
+      "É conhecido por suas enormes dunas de areia."
+    ]
+  },
+  {
+    "id": 148,
+    "pergunta": "Qual é uma importante atividade econômica da África do Sul?",
+    "alternativas": [
+      "Mineração",
+      "Cultivo de trigo em regiões polares",
+      "Produção de café tropical em larga escala",
+      "Pesca no Ártico"
+    ],
+    "resposta": 0,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "facil",
+    "tipo": "economia",
+    "pais": "África do Sul",
+    "dicas": [
+      "O país possui importantes reservas minerais.",
+      "O ouro, a platina e outros minerais possuem importância econômica."
+    ]
+  },
+  {
+    "id": 149,
+    "pergunta": "Qual país africano possui a cidade de Joanesburgo, importante centro econômico?",
+    "alternativas": [
+      "África do Sul",
+      "Zâmbia",
+      "Quênia",
+      "Zimbábue"
+    ],
+    "resposta": 0,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "facil",
+    "tipo": "economia",
+    "pais": "África do Sul",
+    "dicas": [
+      "A cidade possui forte relação histórica com a mineração.",
+      "É uma das maiores cidades do continente."
+    ]
+  },
+  {
+    "id": 150,
+    "pergunta": "Qual país africano possui as Cataratas Vitória em sua fronteira com a Zâmbia?",
+    "alternativas": [
+      "Zimbábue",
+      "Quênia",
+      "Marrocos",
+      "Senegal"
+    ],
+    "resposta": 0,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "facil",
+    "tipo": "hidrografia",
+    "pais": "Zimbábue",
+    "dicas": [
+      "As cataratas estão no Rio Zambeze.",
+      "Elas também podem ser observadas a partir da Zâmbia."
+    ]
+  },
+  {
+    "id": 151,
+    "pergunta": "Qual país africano é conhecido por possuir uma importante indústria de diamantes?",
+    "alternativas": [
+      "Botsuana",
+      "Tunísia",
+      "Egito",
+      "Marrocos"
+    ],
+    "resposta": 0,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "medio",
+    "tipo": "recursos-naturais",
+    "pais": "Botsuana",
+    "dicas": [
+      "A mineração possui grande importância na economia do país.",
+      "O país está localizado na África Austral."
+    ]
+  },
+  {
+    "id": 152,
+    "pergunta": "Qual país africano possui uma das maiores reservas de fosfato do mundo?",
+    "alternativas": [
+      "Marrocos",
+      "Uganda",
+      "Quênia",
+      "Gana"
+    ],
+    "resposta": 0,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "medio",
+    "tipo": "recursos-naturais",
+    "pais": "Marrocos",
+    "dicas": [
+      "O recurso é utilizado principalmente na produção de fertilizantes.",
+      "O país está localizado no noroeste da África."
+    ]
+  },
+  {
+    "id": 153,
+    "pergunta": "Qual é a capital de Angola?",
+    "alternativas": [
+      "Benguela",
+      "Huambo",
+      "Luanda",
+      "Lubango"
+    ],
+    "resposta": 2,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "Angola",
+    "dicas": [
+      "É a maior cidade do país.",
+      "Está localizada na costa do Oceano Atlântico."
+    ]
+  },
+  {
+    "id": 154,
+    "pergunta": "Qual recurso natural possui grande importância para a economia de Angola?",
+    "alternativas": [
+      "Petróleo",
+      "Trigo",
+      "Carvão vegetal",
+      "Café de clima frio"
+    ],
+    "resposta": 0,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "facil",
+    "tipo": "economia",
+    "pais": "Angola",
+    "dicas": [
+      "Grande parte da produção ocorre em áreas marítimas.",
+      "É um dos principais produtos de exportação do país."
+    ]
+  },
+  {
+    "id": 155,
+    "pergunta": "Qual país africano possui o Lago Chade, importante para vários países da região?",
+    "alternativas": [
+      "Chade",
+      "Marrocos",
+      "Namíbia",
+      "África do Sul"
+    ],
+    "resposta": 0,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "facil",
+    "tipo": "hidrografia",
+    "pais": "Chade",
+    "dicas": [
+      "O lago está localizado na região do Sahel.",
+      "É compartilhado por mais de um país africano."
+    ]
+  },
+  {
+    "id": 156,
+    "pergunta": "Qual região africana é conhecida como uma faixa de transição entre o Deserto do Saara e as áreas mais úmidas ao sul?",
+    "alternativas": [
+      "Sahel",
+      "Magrebe",
+      "Vale do Rift",
+      "Cabo"
+    ],
+    "resposta": 0,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "medio",
+    "tipo": "clima",
+    "pais": "Chade",
+    "dicas": [
+      "A região possui clima semiárido.",
+      "Enfrenta períodos frequentes de seca."
+    ]
+  },
+  {
+    "id": 157,
+    "pergunta": "Qual país africano é conhecido pela produção de ouro e cacau?",
+    "alternativas": [
+      "Gana",
+      "Líbia",
+      "Namíbia",
+      "Sudão"
+    ],
+    "resposta": 0,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "medio",
+    "tipo": "economia",
+    "pais": "Gana",
+    "dicas": [
+      "O país está localizado na África Ocidental.",
+      "A mineração e a agricultura possuem grande importância econômica."
+    ]
+  },
+  {
+    "id": 158,
+    "pergunta": "Qual é a capital de Moçambique?",
+    "alternativas": [
+      "Beira",
+      "Nampula",
+      "Maputo",
+      "Tete"
+    ],
+    "resposta": 2,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "Moçambique",
+    "dicas": [
+      "É a maior cidade do país.",
+      "Está localizada no sul, próxima à fronteira com a África do Sul."
+    ]
+  },
+  {
+    "id": 159,
+    "pergunta": "Qual idioma é uma das línguas oficiais de Moçambique?",
+    "alternativas": [
+      "Português",
+      "Alemão",
+      "Japonês",
+      "Holandês"
+    ],
+    "resposta": 0,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "facil",
+    "tipo": "cultura",
+    "pais": "Moçambique",
+    "dicas": [
+      "O país foi colonizado por Portugal.",
+      "É uma das nações africanas onde o português é língua oficial."
+    ]
+  },
+  {
+    "id": 160,
+    "pergunta": "Qual país africano possui uma das maiores concentrações de gorilas-das-montanhas?",
+    "alternativas": [
+      "Ruanda",
+      "Egito",
+      "Marrocos",
+      "Líbia"
+    ],
+    "resposta": 0,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "medio",
+    "tipo": "fauna",
+    "pais": "Ruanda",
+    "dicas": [
+      "O país está localizado na região dos Grandes Lagos africanos.",
+      "O Parque Nacional dos Vulcões é conhecido pela proteção desses animais."
+    ]
+  },
+  {
+    "id": 161,
+    "pergunta": "Qual é a capital do Japão?",
+    "alternativas": [
+      "Osaka",
+      "Tóquio",
+      "Kyoto",
+      "Hiroshima"
+    ],
+    "resposta": 1,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "Japão",
+    "dicas": [
+      "É a maior cidade do país.",
+      "É um dos principais centros financeiros e tecnológicos da Ásia."
+    ]
+  },
+  {
+    "id": 162,
+    "pergunta": "Qual é o país mais populoso da Ásia?",
+    "alternativas": [
+      "Japão",
+      "Índia",
+      "Indonésia",
+      "China"
+    ],
+    "resposta": 1,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "populacao",
+    "pais": "Índia",
+    "dicas": [
+      "O país possui mais de 1 bilhão de habitantes.",
+      "É um dos países mais populosos do mundo."
+    ]
+  },
+  {
+    "id": 163,
+    "pergunta": "Qual é a capital da China?",
+    "alternativas": [
+      "Xangai",
+      "Hong Kong",
+      "Pequim",
+      "Guangzhou"
+    ],
+    "resposta": 2,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "China",
+    "dicas": [
+      "É uma das cidades mais importantes da China.",
+      "A Cidade Proibida está localizada nessa cidade."
+    ]
+  },
+  {
+    "id": 164,
+    "pergunta": "Qual é a maior cadeia montanhosa da Ásia e onde está localizado o Monte Everest?",
+    "alternativas": [
+      "Andes",
+      "Alpes",
+      "Himalaia",
+      "Montes Urais"
+    ],
+    "resposta": 2,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "relevo",
+    "pais": "Nepal",
+    "dicas": [
+      "O Monte Everest está nessa cadeia montanhosa.",
+      "A cordilheira atravessa vários países asiáticos."
+    ]
+  },
+  {
+    "id": 165,
+    "pergunta": "Qual é a montanha mais alta do mundo?",
+    "alternativas": [
+      "K2",
+      "Monte Everest",
+      "Monte Fuji",
+      "Monte Elbrus"
+    ],
+    "resposta": 1,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "relevo",
+    "pais": "Nepal",
+    "dicas": [
+      "Está localizada na cordilheira do Himalaia.",
+      "Seu pico fica na fronteira entre Nepal e China."
+    ]
+  },
+  {
+    "id": 166,
+    "pergunta": "Qual país asiático possui o Monte Fuji?",
+    "alternativas": [
+      "China",
+      "Japão",
+      "Coreia do Sul",
+      "Nepal"
+    ],
+    "resposta": 1,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "relevo",
+    "pais": "Japão",
+    "dicas": [
+      "É um dos principais símbolos do país.",
+      "É um vulcão de formato bastante conhecido."
+    ]
+  },
+  {
+    "id": 167,
+    "pergunta": "Qual país asiático é conhecido por possuir uma das maiores economias industriais do mundo?",
+    "alternativas": [
+      "Japão",
+      "Nepal",
+      "Laos",
+      "Butão"
+    ],
+    "resposta": 0,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "economia",
+    "pais": "Japão",
+    "dicas": [
+      "O país possui forte indústria automobilística e eletrônica.",
+      "Toyota, Honda e Sony são empresas associadas ao país."
+    ]
+  },
+  {
+    "id": 168,
+    "pergunta": "Qual setor é especialmente importante para a economia da Arábia Saudita?",
+    "alternativas": [
+      "Petróleo",
+      "Café",
+      "Madeira tropical",
+      "Pesca de salmão"
+    ],
+    "resposta": 0,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "economia",
+    "pais": "Arábia Saudita",
+    "dicas": [
+      "O país possui grandes reservas desse recurso.",
+      "A exportação desse produto possui grande importância econômica."
+    ]
+  },
+  {
+    "id": 169,
+    "pergunta": "Qual é a capital da Arábia Saudita?",
+    "alternativas": [
+      "Jidá",
+      "Meca",
+      "Riad",
+      "Medina"
+    ],
+    "resposta": 2,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "Arábia Saudita",
+    "dicas": [
+      "É a maior cidade do país.",
+      "É um importante centro político e econômico."
+    ]
+  },
+  {
+    "id": 170,
+    "pergunta": "Qual é o maior deserto da Ásia?",
+    "alternativas": [
+      "Gobi",
+      "Atacama",
+      "Saara",
+      "Kalahari"
+    ],
+    "resposta": 0,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "bioma",
+    "pais": "Mongólia",
+    "dicas": [
+      "Está localizado principalmente na Mongólia e na China.",
+      "Possui clima muito seco e grandes variações de temperatura."
+    ]
+  },
+  {
+    "id": 171,
+    "pergunta": "Qual país é conhecido por possuir grande parte do Deserto de Gobi?",
+    "alternativas": [
+      "Mongólia",
+      "Índia",
+      "Japão",
+      "Indonésia"
+    ],
+    "resposta": 0,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "bioma",
+    "pais": "Mongólia",
+    "dicas": [
+      "É um país localizado entre a Rússia e a China.",
+      "Possui uma das menores densidades populacionais do mundo."
+    ]
+  },
+  {
+    "id": 172,
+    "pergunta": "Qual é a capital da Índia?",
+    "alternativas": [
+      "Mumbai",
+      "Nova Délhi",
+      "Calcutá",
+      "Bangalore"
+    ],
+    "resposta": 1,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "Índia",
+    "dicas": [
+      "É o centro político do país.",
+      "Está localizada na região norte da Índia."
+    ]
+  },
+  {
+    "id": 173,
+    "pergunta": "Qual rio é considerado sagrado por muitos hindus?",
+    "alternativas": [
+      "Rio Ganges",
+      "Rio Mekong",
+      "Rio Yangtzé",
+      "Rio Indo"
+    ],
+    "resposta": 0,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "hidrografia",
+    "pais": "Índia",
+    "dicas": [
+      "O rio atravessa o norte da Índia.",
+      "Possui grande importância cultural e religiosa."
+    ]
+  },
+  {
+    "id": 174,
+    "pergunta": "Qual é o rio mais longo da Ásia?",
+    "alternativas": [
+      "Rio Ganges",
+      "Rio Yangtzé",
+      "Rio Mekong",
+      "Rio Indo"
+    ],
+    "resposta": 1,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "medio",
+    "tipo": "hidrografia",
+    "pais": "China",
+    "dicas": [
+      "Está localizado principalmente na China.",
+      "Também é conhecido como Chang Jiang."
+    ]
+  },
+  {
+    "id": 175,
+    "pergunta": "Qual é a principal atividade econômica de muitas áreas rurais da China?",
+    "alternativas": [
+      "Agricultura",
+      "Turismo polar",
+      "Pesca no Atlântico",
+      "Extração de gelo"
+    ],
+    "resposta": 0,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "agricultura",
+    "pais": "China",
+    "dicas": [
+      "O país possui uma grande produção de arroz, trigo e outros alimentos.",
+      "A China está entre os maiores produtores agrícolas do mundo."
+    ]
+  },
+  {
+    "id": 176,
+    "pergunta": "Qual país é conhecido como um dos maiores produtores de arroz do mundo?",
+    "alternativas": [
+      "China",
+      "Noruega",
+      "Canadá",
+      "Islândia"
+    ],
+    "resposta": 0,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "agricultura",
+    "pais": "China",
+    "dicas": [
+      "O país possui grandes áreas de cultivo no leste e sul.",
+      "O arroz é um alimento básico para grande parte da população."
+    ]
+  },
+  {
+    "id": 177,
+    "pergunta": "Qual país asiático é conhecido pela produção de tecnologia e semicondutores?",
+    "alternativas": [
+      "Taiwan",
+      "Nepal",
+      "Mongólia",
+      "Afeganistão"
+    ],
+    "resposta": 0,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "medio",
+    "tipo": "tecnologia",
+    "pais": "Taiwan",
+    "dicas": [
+      "Possui uma indústria tecnológica altamente desenvolvida.",
+      "É especialmente conhecido pela fabricação de chips."
+    ]
+  },
+  {
+    "id": 178,
+    "pergunta": "Qual é a capital da Coreia do Sul?",
+    "alternativas": [
+      "Busan",
+      "Seul",
+      "Incheon",
+      "Daegu"
+    ],
+    "resposta": 1,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "Coreia do Sul",
+    "dicas": [
+      "É uma das maiores cidades da Ásia.",
+      "É um importante centro tecnológico e cultural."
+    ]
+  },
+  {
+    "id": 179,
+    "pergunta": "Qual empresa sul-coreana é conhecida mundialmente pela fabricação de eletrônicos e smartphones?",
+    "alternativas": [
+      "Samsung",
+      "Toyota",
+      "Nokia",
+      "Volkswagen"
+    ],
+    "resposta": 0,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "economia",
+    "pais": "Coreia do Sul",
+    "dicas": [
+      "A empresa possui sede na Coreia do Sul.",
+      "É uma das maiores empresas de tecnologia do mundo."
+    ]
+  },
+  {
+    "id": 180,
+    "pergunta": "Qual país asiático é conhecido pelo fenômeno das monções?",
+    "alternativas": [
+      "Índia",
+      "Mongólia",
+      "Japão",
+      "Cazaquistão"
+    ],
+    "resposta": 0,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "medio",
+    "tipo": "clima",
+    "pais": "Índia",
+    "dicas": [
+      "As monções influenciam fortemente o regime de chuvas.",
+      "A agricultura de várias regiões depende dessas chuvas."
+    ]
+  },
+  {
+    "id": 181,
+    "pergunta": "Qual país asiático possui a maior extensão territorial?",
+    "alternativas": [
+      "China",
+      "Índia",
+      "Rússia",
+      "Arábia Saudita"
+    ],
+    "resposta": 2,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "geografia",
+    "pais": "Rússia",
+    "dicas": [
+      "Seu território está dividido entre Europa e Ásia.",
+      "É o maior país do mundo em extensão territorial."
+    ]
+  },
+  {
+    "id": 182,
+    "pergunta": "Qual bioma cobre grandes áreas do norte da Rússia?",
+    "alternativas": [
+      "Taiga",
+      "Savana",
+      "Floresta tropical",
+      "Caatinga"
+    ],
+    "resposta": 0,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "bioma",
+    "pais": "Rússia",
+    "dicas": [
+      "É formada principalmente por florestas de coníferas.",
+      "Está adaptada a temperaturas muito baixas."
+    ]
+  },
+  {
+    "id": 183,
+    "pergunta": "Qual é a capital da Tailândia?",
+    "alternativas": [
+      "Bangcoc",
+      "Hanói",
+      "Manila",
+      "Jacarta"
+    ],
+    "resposta": 0,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "Tailândia",
+    "dicas": [
+      "É uma das cidades mais visitadas do Sudeste Asiático.",
+      "É conhecida por seus templos e intenso comércio."
+    ]
+  },
+  {
+    "id": 184,
+    "pergunta": "Qual país asiático é um dos maiores produtores de petróleo do mundo?",
+    "alternativas": [
+      "Arábia Saudita",
+      "Nepal",
+      "Japão",
+      "Coreia do Sul"
+    ],
+    "resposta": 0,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "recursos-naturais",
+    "pais": "Arábia Saudita",
+    "dicas": [
+      "Está localizada na Península Arábica.",
+      "O petróleo possui grande importância para sua economia."
+    ]
+  },
+  {
+    "id": 185,
+    "pergunta": "Qual é a capital dos Emirados Árabes Unidos?",
+    "alternativas": [
+      "Dubai",
+      "Abu Dhabi",
+      "Sharjah",
+      "Doha"
+    ],
+    "resposta": 1,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "Emirados Árabes Unidos",
+    "dicas": [
+      "Dubai é mais conhecida internacionalmente, mas não é a capital.",
+      "A cidade está localizada na costa do Golfo Pérsico."
+    ]
+  },
+  {
+    "id": 186,
+    "pergunta": "Qual país asiático é conhecido pela cidade de Dubai?",
+    "alternativas": [
+      "Emirados Árabes Unidos",
+      "Catar",
+      "Bahrein",
+      "Omã"
+    ],
+    "resposta": 0,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "geografia",
+    "pais": "Emirados Árabes Unidos",
+    "dicas": [
+      "O país está localizado no Golfo Pérsico.",
+      "Dubai é um importante centro financeiro e turístico."
+    ]
+  },
+  {
+    "id": 187,
+    "pergunta": "Qual país asiático é conhecido por suas grandes plantações de chá?",
+    "alternativas": [
+      "Sri Lanka",
+      "Arábia Saudita",
+      "Mongólia",
+      "Afeganistão"
+    ],
+    "resposta": 0,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "agricultura",
+    "pais": "Sri Lanka",
+    "dicas": [
+      "O país é famoso mundialmente pelo chá.",
+      "É uma ilha localizada ao sul da Índia."
+    ]
+  },
+  {
+    "id": 188,
+    "pergunta": "Qual é a capital do Vietnã?",
+    "alternativas": [
+      "Ho Chi Minh",
+      "Hanói",
+      "Da Nang",
+      "Hue"
+    ],
+    "resposta": 1,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "Vietnã",
+    "dicas": [
+      "É a capital política do país.",
+      "Está localizada no norte do Vietnã."
+    ]
+  },
+  {
+    "id": 189,
+    "pergunta": "Qual rio é importante para vários países do Sudeste Asiático?",
+    "alternativas": [
+      "Mekong",
+      "Nilo",
+      "Amazonas",
+      "Volga"
+    ],
+    "resposta": 0,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "hidrografia",
+    "pais": "Vietnã",
+    "dicas": [
+      "O rio atravessa ou influencia vários países.",
+      "Seu delta no Vietnã é importante para a agricultura."
+    ]
+  },
+  {
+    "id": 190,
+    "pergunta": "Qual país asiático é formado por milhares de ilhas?",
+    "alternativas": [
+      "Indonésia",
+      "Mongólia",
+      "Nepal",
+      "Afeganistão"
+    ],
+    "resposta": 0,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "geografia",
+    "pais": "Indonésia",
+    "dicas": [
+      "É um dos maiores arquipélagos do mundo.",
+      "Está localizado entre os oceanos Índico e Pacífico."
+    ]
+  },
+  {
+    "id": 191,
+    "pergunta": "Qual bioma é encontrado em grande parte das ilhas da Indonésia?",
+    "alternativas": [
+      "Floresta tropical",
+      "Tundra",
+      "Taiga",
+      "Deserto polar"
+    ],
+    "resposta": 0,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "bioma",
+    "pais": "Indonésia",
+    "dicas": [
+      "O clima é quente e úmido.",
+      "A região possui grande biodiversidade."
+    ]
+  },
+  {
+    "id": 192,
+    "pergunta": "Qual é a capital da Indonésia?",
+    "alternativas": [
+      "Bali",
+      "Jacarta",
+      "Surabaya",
+      "Bandung"
+    ],
+    "resposta": 1,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "Indonésia",
+    "dicas": [
+      "É uma das maiores cidades do Sudeste Asiático.",
+      "Está localizada na ilha de Java."
+    ]
+  },
+  {
+    "id": 193,
+    "pergunta": "Qual país asiático é conhecido por possuir o Taj Mahal?",
+    "alternativas": [
+      "Índia",
+      "Paquistão",
+      "Nepal",
+      "Bangladesh"
+    ],
+    "resposta": 0,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "cultura",
+    "pais": "Índia",
+    "dicas": [
+      "O monumento está localizado na cidade de Agra.",
+      "É uma das construções mais famosas do mundo."
+    ]
+  },
+  {
+    "id": 194,
+    "pergunta": "Qual país asiático possui uma grande parte do Deserto de Thar?",
+    "alternativas": [
+      "Índia",
+      "Japão",
+      "Coreia do Sul",
+      "Filipinas"
+    ],
+    "resposta": 0,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "medio",
+    "tipo": "bioma",
+    "pais": "Índia",
+    "dicas": [
+      "O deserto está localizado principalmente no noroeste do país.",
+      "Também se estende por parte do Paquistão."
+    ]
+  },
+  {
+    "id": 195,
+    "pergunta": "Qual é a capital do Nepal?",
+    "alternativas": [
+      "Katmandu",
+      "Daca",
+      "Thimphu",
+      "Colombo"
+    ],
+    "resposta": 0,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "Nepal",
+    "dicas": [
+      "É a principal cidade do país.",
+      "Está localizada próxima à cordilheira do Himalaia."
+    ]
+  },
+  {
+    "id": 196,
+    "pergunta": "Qual país asiático possui grande parte da Península Arábica?",
+    "alternativas": [
+      "Arábia Saudita",
+      "Japão",
+      "China",
+      "Vietnã"
+    ],
+    "resposta": 0,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "geografia",
+    "pais": "Arábia Saudita",
+    "dicas": [
+      "É o maior país da Península Arábica.",
+      "Possui grandes áreas desérticas."
+    ]
+  },
+  {
+    "id": 197,
+    "pergunta": "Qual país asiático é conhecido por possuir uma das maiores florestas de manguezais do mundo, nos Sundarbans?",
+    "alternativas": [
+      "Bangladesh",
+      "Japão",
+      "Mongólia",
+      "Afeganistão"
+    ],
+    "resposta": 0,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "medio",
+    "tipo": "bioma",
+    "pais": "Bangladesh",
+    "dicas": [
+      "Os Sundarbans estão no delta do Ganges, Brahmaputra e Meghna.",
+      "A região também é habitat do tigre-de-bengala."
+    ]
+  },
+  {
+    "id": 198,
+    "pergunta": "Qual país asiático é conhecido pela produção de automóveis de marcas como Toyota, Honda e Nissan?",
+    "alternativas": [
+      "Japão",
+      "Nepal",
+      "Bangladesh",
+      "Mongólia"
+    ],
+    "resposta": 0,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "industria",
+    "pais": "Japão",
+    "dicas": [
+      "A indústria automobilística é muito desenvolvida no país.",
+      "É uma das maiores potências industriais da Ásia."
+    ]
+  },
+  {
+    "id": 199,
+    "pergunta": "Qual país asiático é conhecido pela produção de petróleo e gás natural na região do Golfo Pérsico?",
+    "alternativas": [
+      "Catar",
+      "Nepal",
+      "Laos",
+      "Butão"
+    ],
+    "resposta": 0,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "medio",
+    "tipo": "recursos-naturais",
+    "pais": "Catar",
+    "dicas": [
+      "É um pequeno país localizado na Península Arábica.",
+      "O gás natural possui enorme importância para sua economia."
+    ]
+  },
+  {
+    "id": 200,
+    "pergunta": "Qual país asiático é conhecido por possuir a Grande Muralha?",
+    "alternativas": [
+      "China",
+      "Japão",
+      "Coreia do Sul",
+      "Mongólia"
+    ],
+    "resposta": 0,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "historia",
+    "pais": "China",
+    "dicas": [
+      "A construção possui milhares de quilômetros.",
+      "Foi construída e ampliada ao longo de diferentes períodos da história chinesa."
+    ]
+  }
+] 
