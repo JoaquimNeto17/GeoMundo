@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>GEO MUNDO</title>
+<title>GEO MUNDO 🌎</title>
 <link rel="stylesheet" href="css/style.css" />
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
@@ -31,12 +31,12 @@
      MENU PRINCIPAL
      ============================================================ -->
 <section id="screen-menu" class="menu-screen">
-  <div class="menu-logo">&#127758;</div>
+  <div class="menu-logo">🌎</div>
   <h1 class="menu-title">GEO MUNDO</h1>
   <p class="menu-subtitle">Explore. Descubra. Aprenda.</p>
 
   <div class="ranking-box" id="ranking-box">
-    <div class="result-side-title">&#127941; Ranking</div>
+    <div class="result-side-title">🏆 Ranking</div>
     <div id="ranking-list"></div>
   </div>
 
@@ -54,11 +54,11 @@
 <section id="screen-game" class="hidden">
   <header class="topbar">
     <div class="brand">
-      <span class="brand-icon">&#127758;</span>
+      <span class="brand-icon">🌎</span>
       <span class="brand-name">GEO<br />MUNDO</span>
     </div>
     <div class="topbar-stats">
-      <div class="stat"><div class="stat-label">Jogador</div><div class="stat-value violet" id="hud-nome">&#8212;</div></div>
+      <div class="stat"><div class="stat-label">Jogador</div><div class="stat-value violet" id="hud-nome">—</div></div>
       <div class="stat"><div class="stat-label">Nível</div><div class="stat-value violet" id="hud-nivel">Nível 1</div></div>
       <div class="stat"><div class="stat-label">Região</div><div class="stat-value" id="hud-regiao">América do Sul</div></div>
       <div class="stat"><div class="stat-label">XP</div><div class="stat-value gold" id="hud-xp">0</div></div>
@@ -83,8 +83,8 @@
 
       <div class="quiz-footer">
         <div class="lives" id="lives"></div>
-        <div class="streak-badge">&#128293; Sequência: <strong id="streak-value">0</strong></div>
-        <button class="hint-btn" id="btn-hint">&#128161; DICA (-15 XP)</button>
+        <div class="streak-badge">🔥 Sequência: <strong id="streak-value">0</strong></div>
+        <button class="hint-btn" id="btn-hint">💡 DICA (-15 XP)</button>
       </div>
     </div>
   </div>
@@ -96,18 +96,18 @@
 <div id="overlay-result" class="overlay hidden">
   <div class="result-panel" id="result-panel">
     <div class="result-main">
-      <div class="result-icon" id="result-icon">&#9989;</div>
+      <div class="result-icon" id="result-icon">✅</div>
       <div class="result-title" id="result-title">CORRETO!</div>
       <p class="result-desc" id="result-desc">Muito bem!</p>
       <div class="result-xp" id="result-xp">+100 XP</div>
     </div>
     <div class="result-side">
       <div class="result-side-title">Situação do jogador</div>
-      <div class="status-row"><span class="label">&#11088; XP total</span><span class="value" id="status-xp">0</span></div>
-      <div class="status-row"><span class="label">&#128293; Sequência</span><span class="value" id="status-streak">0</span></div>
-      <div class="status-row"><span class="label">&#127919; Nível</span><span class="value" id="status-nivel">1</span></div>
-      <div class="status-row"><span class="label">&#127758; Região</span><span class="value" id="status-regiao">América do Sul</span></div>
-      <div class="status-row"><span class="label">&#127757; Países descobertos</span><span class="value" id="status-paises">0</span></div>
+      <div class="status-row"><span class="label">⭐ XP total</span><span class="value" id="status-xp">0</span></div>
+      <div class="status-row"><span class="label">🔥 Sequência</span><span class="value" id="status-streak">0</span></div>
+      <div class="status-row"><span class="label">🎯 Nível</span><span class="value" id="status-nivel">1</span></div>
+      <div class="status-row"><span class="label">🌎 Região</span><span class="value" id="status-regiao">América do Sul</span></div>
+      <div class="status-row"><span class="label">🌍 Países descobertos</span><span class="value" id="status-paises">0</span></div>
     </div>
     <div class="result-footer">
       <div class="countdown-wrap">Próxima pergunta em
@@ -125,7 +125,7 @@
   <div class="result-panel" style="grid-template-columns: 1fr;">
     <div>
       <div class="result-title" style="text-align:center; font-size:30px;">GAME OVER</div>
-      <p class="result-desc" style="text-align:center; margin-top:6px;" id="go-nome">&#127758; Sua jornada terminou</p>
+      <p class="result-desc" style="text-align:center; margin-top:6px;" id="go-nome">🌎 Sua jornada terminou</p>
       <div class="stat-grid">
         <div class="stat-box"><div class="num gold" id="go-xp">0</div><div class="lbl">XP total</div></div>
         <div class="stat-box"><div class="num" id="go-respondidas">0</div><div class="lbl">Perguntas respondidas</div></div>
@@ -134,7 +134,7 @@
         <div class="stat-box" style="grid-column:1/-1;"><div class="num" id="go-streak">0</div><div class="lbl">Maior sequência</div></div>
       </div>
       <div class="ranking-box" id="go-ranking-box" style="margin-bottom:20px;">
-        <div class="result-side-title">&#127941; Ranking</div>
+        <div class="result-side-title">🏆 Ranking</div>
         <div id="go-ranking-list"></div>
       </div>
       <div style="display:flex; gap:12px; justify-content:center;">
@@ -151,7 +151,7 @@
 <div id="overlay-vitoria" class="overlay hidden">
   <div class="result-panel" style="grid-template-columns: 1fr;">
     <div>
-      <div class="result-title correct" style="text-align:center; font-size:30px;">&#127941; NÍVEL CONCLUÍDO!</div>
+      <div class="result-title correct" style="text-align:center; font-size:30px;">🏆 NÍVEL CONCLUÍDO!</div>
       <p class="result-desc" style="text-align:center; margin-top:6px; text-transform:uppercase; font-weight:700;" id="vitoria-regiao">América do Sul</p>
       <p class="result-desc" style="text-align:center;">Você completou este desafio.</p>
       <div class="stat-grid">
