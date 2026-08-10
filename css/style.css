@@ -1,36 +1,36 @@
 /* ============================================================
-   GEO MUNDO — Tema Claro com Azul e Dourado
+   GEO MUNDO — Tema com Paleta Personalizada
+   Ordem: Branco → Vermelho → Dourado → Verde → Azul escuro
    ============================================================ */
 :root {
   /* Fundos */
   --bg-void: #ffffff;
-  --bg-panel: #f8fafc;
-  --bg-panel-2: #f0f6ff;
+  --bg-panel: #f5f5f5;
+  --bg-panel-2: #fafafa;
   --bg-card: #ffffff;
-  --bg-card-hover: #f5f9ff;
+  --bg-card-hover: #faf0f0;
 
   /* Bordas */
-  --border-subtle: #dbe0e8;
-  --border-strong: #2563eb;        /* azul principal */
-  --border-gold: #d4af37;          /* dourado para destaques */
+  --border-subtle: #e0dcdc;
+  --border-strong: #0B0A32;        /* azul marinho escuro */
+  --border-gold: #CCA43B;          /* dourado */
+  --border-red: #E55E5F;           /* vermelho */
 
   /* Cores principais */
-  --blue: #2563eb;
-  --blue-soft: #60a5fa;
-  --blue-glow: rgba(37, 99, 235, 0.25);
-  --gold: #d4af37;
-  --gold-soft: rgba(212, 175, 55, 0.15);
-
-  /* Estados */
-  --green: #16a34a;
-  --green-soft: rgba(22, 163, 74, 0.12);
-  --red: #dc2626;
-  --red-soft: rgba(220, 38, 38, 0.12);
+  --blue: #0B0A32;
+  --blue-soft: #3a3a6a;
+  --blue-glow: rgba(11, 10, 50, 0.25);
+  --gold: #CCA43B;
+  --gold-soft: rgba(204, 164, 59, 0.15);
+  --red: #E55E5F;
+  --red-soft: rgba(229, 94, 95, 0.15);
+  --green: #233B0B;
+  --green-soft: rgba(35, 59, 11, 0.12);
 
   /* Texto */
-  --text-primary: #0f172a;
-  --text-secondary: #475569;
-  --text-muted: #94a3b8;
+  --text-primary: #0B0A32;
+  --text-secondary: #4a4a5a;
+  --text-muted: #9494a8;
 
   /* Espaçamento e tipografia */
   --radius-s: 10px;
@@ -94,7 +94,7 @@ img {
   padding: 16px 28px;
   background: var(--bg-panel);
   border-bottom: 2px solid var(--border-gold);
-  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.04);
+  box-shadow: 0 2px 12px rgba(11, 10, 50, 0.06);
 }
 
 .brand {
@@ -256,7 +256,7 @@ img {
   border-color: var(--border-strong);
   transform: translateY(-2px);
   background: var(--bg-card-hover);
-  box-shadow: 0 4px 12px rgba(37, 99, 235, 0.10);
+  box-shadow: 0 4px 12px rgba(11, 10, 50, 0.10);
 }
 
 .answer-btn.selected {
@@ -317,7 +317,7 @@ img {
   transition: background 0.15s, border-color 0.15s;
 }
 .hint-btn:hover {
-  background: rgba(212, 175, 55, 0.20);
+  background: rgba(204, 164, 59, 0.20);
   border-color: var(--gold);
 }
 
@@ -345,7 +345,7 @@ img {
 .overlay {
   position: fixed;
   inset: 0;
-  background: rgba(15, 23, 42, 0.50);
+  background: rgba(11, 10, 50, 0.50);
   backdrop-filter: blur(6px);
   display: flex;
   align-items: center;
@@ -364,7 +364,7 @@ img {
   grid-template-columns: 1fr 1.1fr;
   gap: 28px;
   animation: pop-in 0.28s var(--ease);
-  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.12);
+  box-shadow: 0 20px 60px rgba(11, 10, 50, 0.12);
 }
 
 @keyframes pop-in {
@@ -380,11 +380,11 @@ img {
 
 .result-panel.correct {
   border-color: var(--green);
-  box-shadow: 0 0 60px -20px rgba(22, 163, 74, 0.30);
+  box-shadow: 0 0 60px -20px rgba(35, 59, 11, 0.30);
 }
 .result-panel.wrong {
   border-color: var(--red);
-  box-shadow: 0 0 60px -20px rgba(220, 38, 38, 0.30);
+  box-shadow: 0 0 60px -20px rgba(229, 94, 95, 0.30);
 }
 
 .result-main {
@@ -537,7 +537,7 @@ img {
   border: 1px solid var(--blue);
 }
 .btn-primary:hover {
-  box-shadow: 0 6px 20px rgba(37, 99, 235, 0.30);
+  box-shadow: 0 6px 20px rgba(11, 10, 50, 0.30);
 }
 .btn-green {
   background: var(--green);
@@ -560,11 +560,11 @@ img {
 
 .btn-gold {
   background: var(--gold);
-  color: #0f172a;
+  color: #0B0A32;
   border: 1px solid var(--gold);
 }
 .btn-gold:hover {
-  box-shadow: 0 6px 20px rgba(212, 175, 55, 0.35);
+  box-shadow: 0 6px 20px rgba(204, 164, 59, 0.35);
 }
 
 /* ============================================================
@@ -625,7 +625,7 @@ img {
 .menu-btn:hover {
   border-color: var(--border-strong);
   transform: translateY(-2px);
-  box-shadow: 0 6px 20px rgba(37, 99, 235, 0.08);
+  box-shadow: 0 6px 20px rgba(11, 10, 50, 0.08);
 }
 .menu-btn.primary {
   background: var(--blue);
@@ -633,7 +633,7 @@ img {
   color: #fff;
 }
 .menu-btn.primary:hover {
-  box-shadow: 0 6px 24px rgba(37, 99, 235, 0.30);
+  box-shadow: 0 6px 24px rgba(11, 10, 50, 0.30);
 }
 
 /* ============================================================
@@ -694,7 +694,7 @@ img {
 .text-input:focus {
   outline: none;
   border-color: var(--border-strong);
-  box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.12);
+  box-shadow: 0 0 0 3px rgba(11, 10, 50, 0.12);
 }
 
 .ranking-box {
