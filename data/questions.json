@@ -3998,5 +3998,2005 @@
       "A construção possui milhares de quilômetros.",
       "Foi construída e ampliada ao longo de diferentes períodos da história chinesa."
     ]
+  },
+  {
+    "id": 201,
+    "pergunta": "Qual é o clima predominante na maior parte do Brasil?",
+    "alternativas": [
+      "Tropical",
+      "Temperado",
+      "Desértico",
+      "Polar"
+    ],
+    "resposta": 0,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "facil",
+    "tipo": "clima",
+    "pais": "Brasil",
+    "dicas": [
+      "O país é cortado pela Linha do Equador.",
+      "Apresenta altas temperaturas e chuvas abundantes."
+    ]
+  },
+  {
+    "id": 202,
+    "pergunta": "Qual ponto turístico da Argentina é conhecido por suas quedas d'água?",
+    "alternativas": [
+      "Cataratas do Iguaçu",
+      "Cataratas do Niágara",
+      "Cataratas Vitória",
+      "Cataratas de Foz do Iguaçu"
+    ],
+    "resposta": 0,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "facil",
+    "tipo": "pontos-turisticos",
+    "pais": "Argentina",
+    "dicas": [
+      "Fazem fronteira com o Brasil.",
+      "São uma das maiores quedas d'água do mundo."
+    ]
+  },
+  {
+    "id": 203,
+    "pergunta": "Qual é o principal bioma da região norte do Brasil?",
+    "alternativas": [
+      "Cerrado",
+      "Amazônia",
+      "Pantanal",
+      "Caatinga"
+    ],
+    "resposta": 1,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "facil",
+    "tipo": "bioma",
+    "pais": "Brasil",
+    "dicas": [
+      "É a maior floresta tropical do mundo.",
+      "Possui a maior biodiversidade do planeta."
+    ]
+  },
+  {
+    "id": 204,
+    "pergunta": "Qual é o rio mais extenso do mundo, localizado na América do Sul?",
+    "alternativas": [
+      "Rio Amazonas",
+      "Rio Nilo",
+      "Rio Mississippi",
+      "Rio Yangtzé"
+    ],
+    "resposta": 0,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "medio",
+    "tipo": "hidrografia",
+    "pais": "Brasil",
+    "dicas": [
+      "Nasce nos Andes.",
+      "Deságua no Oceano Atlântico."
+    ]
+  },
+  {
+    "id": 205,
+    "pergunta": "Qual é a capital do Chile, conhecida por sua proximidade com a Cordilheira dos Andes?",
+    "alternativas": [
+      "Valparaíso",
+      "Santiago",
+      "Concepción",
+      "Antofagasta"
+    ],
+    "resposta": 1,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "Chile",
+    "dicas": [
+      "É a maior cidade do país.",
+      "Fica em um vale entre a cordilheira e o oceano."
+    ]
+  },
+  {
+    "id": 206,
+    "pergunta": "Qual formação geológica é a mais alta da América do Sul?",
+    "alternativas": [
+      "Monte Everest",
+      "Aconcágua",
+      "Monte Kilimanjaro",
+      "Pico da Neblina"
+    ],
+    "resposta": 1,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "medio",
+    "tipo": "relevo",
+    "pais": "Argentina",
+    "dicas": [
+      "Fica na Cordilheira dos Andes.",
+      "É o ponto mais alto da América."
+    ]
+  },
+  {
+    "id": 207,
+    "pergunta": "Qual é o ponto mais baixo da América do Sul, localizado na Argentina?",
+    "alternativas": [
+      "Depressão do Atacama",
+      "Laguna del Carbón",
+      "Vale da Morte",
+      "Mar Morto"
+    ],
+    "resposta": 1,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "dificil",
+    "tipo": "relevo",
+    "pais": "Argentina",
+    "dicas": [
+      "Está localizado na Patagônia.",
+      "É o ponto mais baixo do continente."
+    ]
+  },
+  {
+    "id": 208,
+    "pergunta": "Qual é o clima predominante na região dos Pampas argentinos?",
+    "alternativas": [
+      "Temperado úmido",
+      "Tropical",
+      "Desértico",
+      "Polar"
+    ],
+    "resposta": 0,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "medio",
+    "tipo": "clima",
+    "pais": "Argentina",
+    "dicas": [
+      "Possui estações bem definidas.",
+      "É uma região de planícies e solos férteis."
+    ]
+  },
+  {
+    "id": 209,
+    "pergunta": "Qual ponto turístico do Peru é considerado uma das Novas Sete Maravilhas do Mundo?",
+    "alternativas": [
+      "Machu Picchu",
+      "Nazca",
+      "Lago Titicaca",
+      "Cusco"
+    ],
+    "resposta": 0,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "facil",
+    "tipo": "pontos-turisticos",
+    "pais": "Peru",
+    "dicas": [
+      "É uma antiga cidade inca.",
+      "Fica nos Andes peruanos."
+    ]
+  },
+  {
+    "id": 210,
+    "pergunta": "Qual é a capital dos Estados Unidos, localizada no Distrito de Columbia?",
+    "alternativas": [
+      "Nova York",
+      "Washington",
+      "Chicago",
+      "Los Angeles"
+    ],
+    "resposta": 1,
+    "continente": "América do Norte",
+    "regiao": "america-do-norte",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "Estados Unidos",
+    "dicas": [
+      "Não é a maior cidade do país.",
+      "A Casa Branca fica lá."
+    ]
+  },
+  {
+    "id": 211,
+    "pergunta": "Qual é o clima predominante no sul dos Estados Unidos, como na Flórida?",
+    "alternativas": [
+      "Tropical",
+      "Subtropical",
+      "Desértico",
+      "Temperado"
+    ],
+    "resposta": 1,
+    "continente": "América do Norte",
+    "regiao": "america-do-norte",
+    "dificuldade": "medio",
+    "tipo": "clima",
+    "pais": "Estados Unidos",
+    "dicas": [
+      "Tem verões quentes e úmidos.",
+      "É conhecido por furacões no verão."
+    ]
+  },
+  {
+    "id": 212,
+    "pergunta": "Qual é a maior cidade do Canadá e um importante centro financeiro?",
+    "alternativas": [
+      "Toronto",
+      "Vancouver",
+      "Montreal",
+      "Calgary"
+    ],
+    "resposta": 0,
+    "continente": "América do Norte",
+    "regiao": "america-do-norte",
+    "dificuldade": "facil",
+    "tipo": "populacao",
+    "pais": "Canadá",
+    "dicas": [
+      "Fica na província de Ontário.",
+      "A CN Tower é um ponto turístico famoso."
+    ]
+  },
+  {
+    "id": 213,
+    "pergunta": "Qual é o deserto mais famoso do México e dos Estados Unidos?",
+    "alternativas": [
+      "Deserto de Sonora",
+      "Deserto de Mojave",
+      "Deserto do Saara",
+      "Deserto de Atacama"
+    ],
+    "resposta": 0,
+    "continente": "América do Norte",
+    "regiao": "america-do-norte",
+    "dificuldade": "medio",
+    "tipo": "bioma",
+    "pais": "México",
+    "dicas": [
+      "Faz fronteira entre os dois países.",
+      "É um dos maiores desertos da América do Norte."
+    ]
+  },
+  {
+    "id": 214,
+    "pergunta": "Qual é o ponto turístico mais famoso de Nova York?",
+    "alternativas": [
+      "Estátua da Liberdade",
+      "Empire State Building",
+      "Central Park",
+      "Times Square"
+    ],
+    "resposta": 0,
+    "continente": "América do Norte",
+    "regiao": "america-do-norte",
+    "dificuldade": "facil",
+    "tipo": "pontos-turisticos",
+    "pais": "Estados Unidos",
+    "dicas": [
+      "Foi um presente da França.",
+      "Está localizada na Ilha da Liberdade."
+    ]
+  },
+  {
+    "id": 215,
+    "pergunta": "Qual é o maior sistema de lagos de água doce do mundo, localizado na América do Norte?",
+    "alternativas": [
+      "Grandes Lagos",
+      "Lagos Andinos",
+      "Lagos Alpinos",
+      "Lagos Siberianos"
+    ],
+    "resposta": 0,
+    "continente": "América do Norte",
+    "regiao": "america-do-norte",
+    "dificuldade": "facil",
+    "tipo": "hidrografia",
+    "pais": "Estados Unidos",
+    "dicas": [
+      "Ficam entre os EUA e o Canadá.",
+      "São cinco lagos principais."
+    ]
+  },
+  {
+    "id": 216,
+    "pergunta": "Qual canal artificial conecta o Oceano Atlântico ao Pacífico, no Panamá?",
+    "alternativas": [
+      "Canal de Suez",
+      "Canal do Panamá",
+      "Canal da Mancha",
+      "Canal de Kiel"
+    ],
+    "resposta": 1,
+    "continente": "América Central",
+    "regiao": "america-central",
+    "dificuldade": "facil",
+    "tipo": "hidrografia",
+    "pais": "Panamá",
+    "dicas": [
+      "Foi inaugurado em 1914.",
+      "É uma importante rota de navegação."
+    ]
+  },
+  {
+    "id": 217,
+    "pergunta": "Qual país da América Central é conhecido por sua estabilidade política e ecoturismo?",
+    "alternativas": [
+      "Nicarágua",
+      "Costa Rica",
+      "Guatemala",
+      "Honduras"
+    ],
+    "resposta": 1,
+    "continente": "América Central",
+    "regiao": "america-central",
+    "dificuldade": "facil",
+    "tipo": "pontos-turisticos",
+    "pais": "Costa Rica",
+    "dicas": [
+      "Não possui exército.",
+      "É famosa por suas florestas e biodiversidade."
+    ]
+  },
+  {
+    "id": 218,
+    "pergunta": "Qual é o clima predominante na América Central, quente e úmido?",
+    "alternativas": [
+      "Tropical",
+      "Temperado",
+      "Desértico",
+      "Polar"
+    ],
+    "resposta": 0,
+    "continente": "América Central",
+    "regiao": "america-central",
+    "dificuldade": "facil",
+    "tipo": "clima",
+    "pais": "Costa Rica",
+    "dicas": [
+      "A região é conhecida por florestas tropicais.",
+      "Possui alta biodiversidade."
+    ]
+  },
+  {
+    "id": 219,
+    "pergunta": "Qual ponto turístico da Guatemala é um sítio arqueológico maia?",
+    "alternativas": [
+      "Chichén Itzá",
+      "Tikal",
+      "Palenque",
+      "Copán"
+    ],
+    "resposta": 1,
+    "continente": "América Central",
+    "regiao": "america-central",
+    "dificuldade": "medio",
+    "tipo": "pontos-turisticos",
+    "pais": "Guatemala",
+    "dicas": [
+      "É uma das maiores cidades maias.",
+      "Fica na região de Petén."
+    ]
+  },
+  {
+    "id": 220,
+    "pergunta": "Qual ilha do Caribe é famosa por sua música, charutos e carros antigos?",
+    "alternativas": [
+      "Jamaica",
+      "Cuba",
+      "Porto Rico",
+      "Bahamas"
+    ],
+    "resposta": 1,
+    "continente": "Caribe",
+    "regiao": "caribe",
+    "dificuldade": "facil",
+    "tipo": "pontos-turisticos",
+    "pais": "Cuba",
+    "dicas": [
+      "Sua capital é Havana.",
+      "O ritmo musical son cubano é famoso."
+    ]
+  },
+  {
+    "id": 221,
+    "pergunta": "Qual é a capital da Jamaica, famosa pelo turismo e pelo reggae?",
+    "alternativas": [
+      "Montego Bay",
+      "Kingston",
+      "Ocho Rios",
+      "Spanish Town"
+    ],
+    "resposta": 1,
+    "continente": "Caribe",
+    "regiao": "caribe",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "Jamaica",
+    "dicas": [
+      "É a maior cidade do país.",
+      "Fica na costa sul da ilha."
+    ]
+  },
+  {
+    "id": 222,
+    "pergunta": "Qual é o ponto turístico mais famoso de Paris?",
+    "alternativas": [
+      "Torre Eiffel",
+      "Arco do Triunfo",
+      "Catedral de Notre-Dame",
+      "Museu do Louvre"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "facil",
+    "tipo": "pontos-turisticos",
+    "pais": "França",
+    "dicas": [
+      "Foi construída para a Exposição Universal de 1889.",
+      "É o símbolo da França."
+    ]
+  },
+  {
+    "id": 223,
+    "pergunta": "Qual é o ponto turístico mais famoso de Berlim, símbolo da divisão da cidade?",
+    "alternativas": [
+      "Portão de Brandemburgo",
+      "Muro de Berlim",
+      "Reichstag",
+      "Ilha dos Museus"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "facil",
+    "tipo": "pontos-turisticos",
+    "pais": "Alemanha",
+    "dicas": [
+      "É um antigo ponto de fronteira.",
+      "Foi construído no século XVIII."
+    ]
+  },
+  {
+    "id": 224,
+    "pergunta": "Qual é o rio mais extenso da Europa?",
+    "alternativas": [
+      "Danúbio",
+      "Volga",
+      "Reno",
+      "Sena"
+    ],
+    "resposta": 1,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "facil",
+    "tipo": "hidrografia",
+    "pais": "Rússia",
+    "dicas": [
+      "Nasce na Rússia.",
+      "Deságua no Mar Cáspio."
+    ]
+  },
+  {
+    "id": 225,
+    "pergunta": "Qual é a cadeia montanhosa que separa a Europa da Ásia?",
+    "alternativas": [
+      "Alpes",
+      "Montes Urais",
+      "Pireneus",
+      "Cárpatos"
+    ],
+    "resposta": 1,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "facil",
+    "tipo": "relevo",
+    "pais": "Rússia",
+    "dicas": [
+      "Fica na Rússia.",
+      "É uma divisão geográfica tradicional."
+    ]
+  },
+  {
+    "id": 226,
+    "pergunta": "Qual é o ponto turístico mais famoso da Itália, uma antiga arena de gladiadores?",
+    "alternativas": [
+      "Coliseu",
+      "Fórum Romano",
+      "Panteão",
+      "Torre de Pisa"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "facil",
+    "tipo": "pontos-turisticos",
+    "pais": "Itália",
+    "dicas": [
+      "Fica em Roma.",
+      "Foi construído no século I d.C."
+    ]
+  },
+  {
+    "id": 227,
+    "pergunta": "Qual é o clima predominante no sul da Europa, próximo ao Mar Mediterrâneo?",
+    "alternativas": [
+      "Mediterrâneo",
+      "Continental",
+      "Oceânico",
+      "Polar"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "facil",
+    "tipo": "clima",
+    "pais": "Espanha",
+    "dicas": [
+      "Verões quentes e secos.",
+      "Invernos amenos e chuvosos."
+    ]
+  },
+  {
+    "id": 228,
+    "pergunta": "Qual é o maior deserto quente do mundo, localizado no norte da África?",
+    "alternativas": [
+      "Deserto do Saara",
+      "Deserto de Kalahari",
+      "Deserto da Namíbia",
+      "Deserto da Líbia"
+    ],
+    "resposta": 0,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "facil",
+    "tipo": "bioma",
+    "pais": "Argélia",
+    "dicas": [
+      "É o maior deserto quente do mundo.",
+      "Ocupa grande parte do norte da África."
+    ]
+  },
+  {
+    "id": 229,
+    "pergunta": "Qual é o rio mais extenso da África?",
+    "alternativas": [
+      "Rio Nilo",
+      "Rio Congo",
+      "Rio Níger",
+      "Rio Zambeze"
+    ],
+    "resposta": 0,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "facil",
+    "tipo": "hidrografia",
+    "pais": "Egito",
+    "dicas": [
+      "É o rio mais longo do mundo.",
+      "Deságua no Mar Mediterrâneo."
+    ]
+  },
+  {
+    "id": 230,
+    "pergunta": "Qual é a capital da África do Sul, sede do poder legislativo?",
+    "alternativas": [
+      "Joanesburgo",
+      "Cidade do Cabo",
+      "Pretória",
+      "Bloemfontein"
+    ],
+    "resposta": 1,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "medio",
+    "tipo": "capital",
+    "pais": "África do Sul",
+    "dicas": [
+      "O país tem três capitais.",
+      "Esta é a sede do Parlamento."
+    ]
+  },
+  {
+    "id": 231,
+    "pergunta": "Qual é o ponto turístico mais famoso do Egito, um conjunto de tumbas antigas?",
+    "alternativas": [
+      "Pirâmides de Gizé",
+      "Vale dos Reis",
+      "Templo de Karnak",
+      "Esfinge"
+    ],
+    "resposta": 0,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "facil",
+    "tipo": "pontos-turisticos",
+    "pais": "Egito",
+    "dicas": [
+      "Uma das Sete Maravilhas do Mundo Antigo.",
+      "Fica nos arredores do Cairo."
+    ]
+  },
+  {
+    "id": 232,
+    "pergunta": "Qual é o ponto turístico mais famoso da África do Sul, uma montanha plana?",
+    "alternativas": [
+      "Montanha da Mesa",
+      "Table Mountain",
+      "Montanha do Leão",
+      "Montanha do Diabo"
+    ],
+    "resposta": 0,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "medio",
+    "tipo": "pontos-turisticos",
+    "pais": "África do Sul",
+    "dicas": [
+      "Fica na Cidade do Cabo.",
+      "Tem um formato achatado no topo."
+    ]
+  },
+  {
+    "id": 233,
+    "pergunta": "Qual é o bioma predominante no Quênia, onde vivem leões e elefantes?",
+    "alternativas": [
+      "Savana",
+      "Floresta tropical",
+      "Deserto",
+      "Taiga"
+    ],
+    "resposta": 0,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "facil",
+    "tipo": "bioma",
+    "pais": "Quênia",
+    "dicas": [
+      "É conhecido pelos safáris.",
+      "A Reserva Maasai Mara fica lá."
+    ]
+  },
+  {
+    "id": 234,
+    "pergunta": "Qual é o clima predominante no norte da África, na região do Saara?",
+    "alternativas": [
+      "Desértico",
+      "Tropical",
+      "Temperado",
+      "Mediterrâneo"
+    ],
+    "resposta": 0,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "facil",
+    "tipo": "clima",
+    "pais": "Argélia",
+    "dicas": [
+      "Muito seco e quente durante o dia.",
+      "As noites podem ser frias."
+    ]
+  },
+  {
+    "id": 235,
+    "pergunta": "Qual é a cidade mais famosa do Marrocos, conhecida por seus mercados e arquitetura?",
+    "alternativas": [
+      "Casablanca",
+      "Marrakech",
+      "Fez",
+      "Rabat"
+    ],
+    "resposta": 1,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "medio",
+    "tipo": "pontos-turisticos",
+    "pais": "Marrocos",
+    "dicas": [
+      "A Praça Jemaa el-Fnaa fica lá.",
+      "É um destino turístico muito popular."
+    ]
+  },
+  {
+    "id": 236,
+    "pergunta": "Qual é a montanha mais alta da África, localizada na Tanzânia?",
+    "alternativas": [
+      "Monte Quênia",
+      "Monte Kilimanjaro",
+      "Monte Elgon",
+      "Monte Atlas"
+    ],
+    "resposta": 1,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "facil",
+    "tipo": "relevo",
+    "pais": "Tanzânia",
+    "dicas": [
+      "É a montanha mais alta do continente.",
+      "Seu pico é o Uhuru."
+    ]
+  },
+  {
+    "id": 237,
+    "pergunta": "Qual é o ponto turístico mais famoso da China, visível do espaço?",
+    "alternativas": [
+      "Grande Muralha",
+      "Cidade Proibida",
+      "Templo do Céu",
+      "Exército de Terracota"
+    ],
+    "resposta": 0,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "pontos-turisticos",
+    "pais": "China",
+    "dicas": [
+      "Tem mais de 20.000 quilômetros.",
+      "Foi construída para defesa."
+    ]
+  },
+  {
+    "id": 238,
+    "pergunta": "Qual é o vulcão mais famoso do Japão, símbolo do país?",
+    "alternativas": [
+      "Monte Fuji",
+      "Monte Aso",
+      "Monte Sakurajima",
+      "Monte Unzen"
+    ],
+    "resposta": 0,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "relevo",
+    "pais": "Japão",
+    "dicas": [
+      "É o ponto mais alto do Japão.",
+      "É um vulcão ativo com formato perfeito."
+    ]
+  },
+  {
+    "id": 239,
+    "pergunta": "Qual é o rio mais extenso da Ásia?",
+    "alternativas": [
+      "Rio Yangtzé",
+      "Rio Ganges",
+      "Rio Mekong",
+      "Rio Indo"
+    ],
+    "resposta": 0,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "hidrografia",
+    "pais": "China",
+    "dicas": [
+      "É o rio mais longo da Ásia.",
+      "Também é conhecido como Chang Jiang."
+    ]
+  },
+  {
+    "id": 240,
+    "pergunta": "Qual é o ponto turístico mais famoso da Índia, um mausoléu de mármore?",
+    "alternativas": [
+      "Taj Mahal",
+      "Forte Vermelho",
+      "Templo Dourado",
+      "Hawa Mahal"
+    ],
+    "resposta": 0,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "pontos-turisticos",
+    "pais": "Índia",
+    "dicas": [
+      "Fica em Agra.",
+      "Foi construído por um imperador mogol."
+    ]
+  },
+  {
+    "id": 241,
+    "pergunta": "Qual é o clima predominante na maior parte da Índia?",
+    "alternativas": [
+      "Tropical de monção",
+      "Desértico",
+      "Temperado",
+      "Polar"
+    ],
+    "resposta": 0,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "medio",
+    "tipo": "clima",
+    "pais": "Índia",
+    "dicas": [
+      "Chuvas intensas no verão.",
+      "O fenômeno é chamado de monção."
+    ]
+  },
+  {
+    "id": 242,
+    "pergunta": "Qual é o ponto turístico mais famoso da Indonésia, um templo budista antigo?",
+    "alternativas": [
+      "Borobudur",
+      "Prambanan",
+      "Templo de Tanah Lot",
+      "Palácio de Ubud"
+    ],
+    "resposta": 0,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "medio",
+    "tipo": "pontos-turisticos",
+    "pais": "Indonésia",
+    "dicas": [
+      "É um templo budista na ilha de Java.",
+      "É Patrimônio da UNESCO."
+    ]
+  },
+  {
+    "id": 243,
+    "pergunta": "Qual é a capital da Austrália, escolhida para resolver disputas entre Sydney e Melbourne?",
+    "alternativas": [
+      "Sydney",
+      "Melbourne",
+      "Camberra",
+      "Brisbane"
+    ],
+    "resposta": 2,
+    "continente": "Oceania",
+    "regiao": "oceania",
+    "dificuldade": "medio",
+    "tipo": "capital",
+    "pais": "Austrália",
+    "dicas": [
+      "Não é a maior cidade do país.",
+      "Foi planejada para ser a capital."
+    ]
+  },
+  {
+    "id": 244,
+    "pergunta": "Qual é o ponto turístico mais famoso da Austrália, um grande rochedo vermelho?",
+    "alternativas": [
+      "Uluru",
+      "Opera House",
+      "Grande Barreira de Corais",
+      "Blue Mountains"
+    ],
+    "resposta": 0,
+    "continente": "Oceania",
+    "regiao": "oceania",
+    "dificuldade": "medio",
+    "tipo": "pontos-turisticos",
+    "pais": "Austrália",
+    "dicas": [
+      "É sagrado para os aborígenes.",
+      "Também é conhecido como Ayers Rock."
+    ]
+  },
+  {
+    "id": 245,
+    "pergunta": "Qual é o maior recife de corais do mundo, localizado na Austrália?",
+    "alternativas": [
+      "Grande Barreira de Corais",
+      "Recife de Belize",
+      "Recife de Tubbataha",
+      "Recife de Nova Caledônia"
+    ],
+    "resposta": 0,
+    "continente": "Oceania",
+    "regiao": "oceania",
+    "dificuldade": "facil",
+    "tipo": "pontos-turisticos",
+    "pais": "Austrália",
+    "dicas": [
+      "Pode ser visto do espaço.",
+      "É o maior do mundo."
+    ]
+  },
+  {
+    "id": 246,
+    "pergunta": "Qual é a capital da Nova Zelândia, localizada na Ilha Norte?",
+    "alternativas": [
+      "Auckland",
+      "Wellington",
+      "Christchurch",
+      "Hamilton"
+    ],
+    "resposta": 1,
+    "continente": "Oceania",
+    "regiao": "oceania",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "Nova Zelândia",
+    "dicas": [
+      "É a capital do país.",
+      "Auckland é maior, mas não é a capital."
+    ]
+  },
+  {
+    "id": 247,
+    "pergunta": "Qual é o ponto turístico mais famoso da Nova Zelândia, usado em filmes de Senhor dos Anéis?",
+    "alternativas": [
+      "Fiordland",
+      "Mount Cook",
+      "Hobbiton",
+      "Rotorua"
+    ],
+    "resposta": 2,
+    "continente": "Oceania",
+    "regiao": "oceania",
+    "dificuldade": "medio",
+    "tipo": "pontos-turisticos",
+    "pais": "Nova Zelândia",
+    "dicas": [
+      "Fica na Ilha Norte.",
+      "É uma vila cenográfica de um filme famoso."
+    ]
+  },
+  {
+    "id": 248,
+    "pergunta": "Qual é o oceano que banha a costa leste da Austrália?",
+    "alternativas": [
+      "Oceano Pacífico",
+      "Oceano Índico",
+      "Oceano Atlântico",
+      "Oceano Antártico"
+    ],
+    "resposta": 0,
+    "continente": "Oceania",
+    "regiao": "oceania",
+    "dificuldade": "facil",
+    "tipo": "hidrografia",
+    "pais": "Austrália",
+    "dicas": [
+      "A Grande Barreira de Corais fica nele.",
+      "É o maior oceano do mundo."
+    ]
+  },
+  {
+    "id": 249,
+    "pergunta": "Qual é o ponto turístico mais famoso da Rússia, com suas cúpulas coloridas?",
+    "alternativas": [
+      "Catedral de São Basílio",
+      "Palácio de Inverno",
+      "Kremlin",
+      "Igreja do Salvador sobre o Sangue"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "medio",
+    "tipo": "pontos-turisticos",
+    "pais": "Rússia",
+    "dicas": [
+      "Fica em Moscou.",
+      "Foi construída por Ivan, o Terrível."
+    ]
+  },
+  {
+    "id": 250,
+    "pergunta": "Qual é a capital da Coreia do Sul, um centro tecnológico mundial?",
+    "alternativas": [
+      "Busan",
+      "Seul",
+      "Incheon",
+      "Daegu"
+    ],
+    "resposta": 1,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "Coreia do Sul",
+    "dicas": [
+      "É a maior cidade do país.",
+      "A sede da Samsung fica lá."
+    ]
+  },
+  {
+    "id": 251,
+    "pergunta": "Qual é o ponto turístico mais famoso da Tailândia, com templos e elefantes?",
+    "alternativas": [
+      "Templo do Buda de Esmeralda",
+      "Wat Arun",
+      "Mercado Flutuante",
+      "Chiang Rai"
+    ],
+    "resposta": 0,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "medio",
+    "tipo": "pontos-turisticos",
+    "pais": "Tailândia",
+    "dicas": [
+      "Fica em Bangcoc.",
+      "É o templo mais sagrado da Tailândia."
+    ]
+  },
+  {
+    "id": 252,
+    "pergunta": "Qual é o ponto turístico mais famoso de Cingapura, com árvores artificiais?",
+    "alternativas": [
+      "Marina Bay Sands",
+      "Gardens by the Bay",
+      "Singapore Flyer",
+      "Merlion Park"
+    ],
+    "resposta": 1,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "medio",
+    "tipo": "pontos-turisticos",
+    "pais": "Singapura",
+    "dicas": [
+      "Tem uma estrutura chamada Supertree.",
+      "É um parque futurista."
+    ]
+  },
+  {
+    "id": 253,
+    "pergunta": "Qual é o clima predominante no Sudeste Asiático, quente e chuvoso?",
+    "alternativas": [
+      "Tropical",
+      "Temperado",
+      "Desértico",
+      "Polar"
+    ],
+    "resposta": 0,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "clima",
+    "pais": "Indonésia",
+    "dicas": [
+      "Possui florestas tropicais densas.",
+      "Chove durante todo o ano."
+    ]
+  },
+  {
+    "id": 254,
+    "pergunta": "Qual é o lago mais profundo do mundo, localizado na Rússia?",
+    "alternativas": [
+      "Lago Baikal",
+      "Lago Titicaca",
+      "Lago Vitória",
+      "Lago Maracaibo"
+    ],
+    "resposta": 0,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "hidrografia",
+    "pais": "Rússia",
+    "dicas": [
+      "Contém 20% da água doce do mundo.",
+      "É o mais antigo e profundo."
+    ]
+  },
+  {
+    "id": 255,
+    "pergunta": "Qual é o ponto turístico mais famoso da Argentina, uma casa presidencial cor-de-rosa?",
+    "alternativas": [
+      "Casa Rosada",
+      "Teatro Colón",
+      "Caminito",
+      "Puerto Madero"
+    ],
+    "resposta": 0,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "medio",
+    "tipo": "pontos-turisticos",
+    "pais": "Argentina",
+    "dicas": [
+      "É a sede do governo argentino.",
+      "Fica na Plaza de Mayo."
+    ]
+  },
+  {
+    "id": 256,
+    "pergunta": "Qual é o clima predominante na região andina da América do Sul?",
+    "alternativas": [
+      "Frio de montanha",
+      "Tropical",
+      "Desértico",
+      "Temperado"
+    ],
+    "resposta": 0,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "medio",
+    "tipo": "clima",
+    "pais": "Peru",
+    "dicas": [
+      "As temperaturas caem com a altitude.",
+      "Pode nevar nas partes mais altas."
+    ]
+  },
+  {
+    "id": 257,
+    "pergunta": "Qual é o ponto turístico mais famoso da Colômbia, um porto antigo no Caribe?",
+    "alternativas": [
+      "Cartagena",
+      "Bogotá",
+      "Medellín",
+      "Santa Marta"
+    ],
+    "resposta": 0,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "medio",
+    "tipo": "pontos-turisticos",
+    "pais": "Colômbia",
+    "dicas": [
+      "É uma cidade murada.",
+      "Foi fundada no século XVI."
+    ]
+  },
+  {
+    "id": 258,
+    "pergunta": "Qual é o ponto turístico mais famoso do Equador, um arquipélago com animais únicos?",
+    "alternativas": [
+      "Ilhas Galápagos",
+      "Quito",
+      "Cuenca",
+      "Banhos"
+    ],
+    "resposta": 0,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "facil",
+    "tipo": "pontos-turisticos",
+    "pais": "Equador",
+    "dicas": [
+      "Foi estudado por Charles Darwin.",
+      "Tem espécies únicas no mundo."
+    ]
+  },
+  {
+    "id": 259,
+    "pergunta": "Qual é o rio que forma parte da fronteira entre Brasil e Argentina?",
+    "alternativas": [
+      "Rio Paraná",
+      "Rio Uruguai",
+      "Rio Iguaçu",
+      "Rio Paraguai"
+    ],
+    "resposta": 2,
+    "continente": "América do Sul",
+    "regiao": "america-do-sul",
+    "dificuldade": "medio",
+    "tipo": "hidrografia",
+    "pais": "Brasil",
+    "dicas": [
+      "As Cataratas do Iguaçu ficam nele.",
+      "É um afluente do Rio Paraná."
+    ]
+  },
+  {
+    "id": 260,
+    "pergunta": "Qual é o ponto turístico mais famoso do México, uma pirâmide maia?",
+    "alternativas": [
+      "Chichén Itzá",
+      "Teotihuacán",
+      "Palácio Nacional",
+      "Frida Kahlo"
+    ],
+    "resposta": 0,
+    "continente": "América do Norte",
+    "regiao": "america-do-norte",
+    "dificuldade": "facil",
+    "tipo": "pontos-turisticos",
+    "pais": "México",
+    "dicas": [
+      "É uma das Novas Sete Maravilhas.",
+      "Fica na Península de Yucatán."
+    ]
+  },
+  {
+    "id": 261,
+    "pergunta": "Qual é o rio que forma parte da fronteira entre EUA e México?",
+    "alternativas": [
+      "Rio Colorado",
+      "Rio Grande",
+      "Rio Mississippi",
+      "Rio Missouri"
+    ],
+    "resposta": 1,
+    "continente": "América do Norte",
+    "regiao": "america-do-norte",
+    "dificuldade": "facil",
+    "tipo": "hidrografia",
+    "pais": "Estados Unidos",
+    "dicas": [
+      "É chamado de Río Bravo no México.",
+      "Nasce nos Estados Unidos."
+    ]
+  },
+  {
+    "id": 262,
+    "pergunta": "Qual é o ponto turístico mais famoso de Londres, um relógio gigante?",
+    "alternativas": [
+      "Big Ben",
+      "London Eye",
+      "Torre de Londres",
+      "Palácio de Buckingham"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "facil",
+    "tipo": "pontos-turisticos",
+    "pais": "Reino Unido",
+    "dicas": [
+      "Fica no Parlamento Britânico.",
+      "É um dos relógios mais famosos do mundo."
+    ]
+  },
+  {
+    "id": 263,
+    "pergunta": "Qual é o ponto turístico mais famoso de Barcelona, uma igreja inacabada?",
+    "alternativas": [
+      "Sagrada Família",
+      "Casa Batlló",
+      "Parque Güell",
+      "Camp Nou"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "facil",
+    "tipo": "pontos-turisticos",
+    "pais": "Espanha",
+    "dicas": [
+      "Foi projetada por Gaudí.",
+      "A construção começou em 1882."
+    ]
+  },
+  {
+    "id": 264,
+    "pergunta": "Qual é o ponto turístico mais famoso da Suíça, uma montanha com forma de pirâmide?",
+    "alternativas": [
+      "Monte Matterhorn",
+      "Jungfrau",
+      "Monte Pilatus",
+      "Monte Rigi"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "medio",
+    "tipo": "pontos-turisticos",
+    "pais": "Suíça",
+    "dicas": [
+      "É uma das montanhas mais icônicas.",
+      "Fica nos Alpes suíços."
+    ]
+  },
+  {
+    "id": 265,
+    "pergunta": "Qual é o ponto turístico mais famoso de Viena, um palácio imperial?",
+    "alternativas": [
+      "Palácio de Schönbrunn",
+      "Palácio Belvedere",
+      "Catedral de Santo Estêvão",
+      "Ópera de Viena"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "medio",
+    "tipo": "pontos-turisticos",
+    "pais": "Áustria",
+    "dicas": [
+      "Foi residência de verão dos Habsburgos.",
+      "Tem um zoológico no jardim."
+    ]
+  },
+  {
+    "id": 266,
+    "pergunta": "Qual é o ponto turístico mais famoso da Holanda, um museu dedicado a um pintor famoso?",
+    "alternativas": [
+      "Museu Van Gogh",
+      "Museu Rijks",
+      "Casa de Anne Frank",
+      "Museu do Sexo"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "medio",
+    "tipo": "pontos-turisticos",
+    "pais": "Países Baixos",
+    "dicas": [
+      "Fica em Amsterdã.",
+      "Tem a maior coleção de obras de Van Gogh."
+    ]
+  },
+  {
+    "id": 267,
+    "pergunta": "Qual é o ponto turístico mais famoso de Bruxelas, uma estátua de um menino?",
+    "alternativas": [
+      "Manneken Pis",
+      "Atomium",
+      "Grand Place",
+      "Catedral de São Miguel"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "medio",
+    "tipo": "pontos-turisticos",
+    "pais": "Bélgica",
+    "dicas": [
+      "É uma estátua de um menino fazendo xixi.",
+      "É um dos símbolos de Bruxelas."
+    ]
+  },
+  {
+    "id": 268,
+    "pergunta": "Qual é o ponto turístico mais famoso de Lisboa, uma torre medieval?",
+    "alternativas": [
+      "Torre de Belém",
+      "Mosteiro dos Jerónimos",
+      "Castelo de São Jorge",
+      "Elevador de Santa Justa"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "medio",
+    "tipo": "pontos-turisticos",
+    "pais": "Portugal",
+    "dicas": [
+      "Foi construída no século XVI.",
+      "É Patrimônio da UNESCO."
+    ]
+  },
+  {
+    "id": 269,
+    "pergunta": "Qual é o ponto turístico mais famoso de Atenas, um templo antigo?",
+    "alternativas": [
+      "Partenon",
+      "Templo de Zeus",
+      "Ágora",
+      "Teatro de Dionísio"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "facil",
+    "tipo": "pontos-turisticos",
+    "pais": "Grécia",
+    "dicas": [
+      "Fica na Acrópole.",
+      "Foi dedicado à deusa Atena."
+    ]
+  },
+  {
+    "id": 270,
+    "pergunta": "Qual é o ponto turístico mais famoso da Noruega, formações rochosas criadas por geleiras?",
+    "alternativas": [
+      "Fiordes",
+      "Preikestolen",
+      "Trolltunga",
+      "Geiranger"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "medio",
+    "tipo": "pontos-turisticos",
+    "pais": "Noruega",
+    "dicas": [
+      "São vales profundos com água.",
+      "São Patrimônio da UNESCO."
+    ]
+  },
+  {
+    "id": 271,
+    "pergunta": "Qual é o ponto turístico mais famoso da Dinamarca, uma estátua baseada em conto de fadas?",
+    "alternativas": [
+      "Pequena Sereia",
+      "Castelo de Kronborg",
+      "Jardins de Tivoli",
+      "Palácio de Christiansborg"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "facil",
+    "tipo": "pontos-turisticos",
+    "pais": "Dinamarca",
+    "dicas": [
+      "Fica em Copenhague.",
+      "Foi inspirada em um conto de Hans Christian Andersen."
+    ]
+  },
+  {
+    "id": 272,
+    "pergunta": "Qual é o ponto turístico mais famoso da Islândia, um local com gêiseres e água quente?",
+    "alternativas": [
+      "Círculo Dourado",
+      "Lagoa Azul",
+      "Geysir",
+      "Thingvellir"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "medio",
+    "tipo": "pontos-turisticos",
+    "pais": "Islândia",
+    "dicas": [
+      "Inclui o Geysir e as quedas de Gullfoss.",
+      "É uma rota turística famosa."
+    ]
+  },
+  {
+    "id": 273,
+    "pergunta": "Qual é a capital da Austrália, escolhida para resolver disputas entre Sydney e Melbourne?",
+    "alternativas": [
+      "Sydney",
+      "Melbourne",
+      "Camberra",
+      "Brisbane"
+    ],
+    "resposta": 2,
+    "continente": "Oceania",
+    "regiao": "oceania",
+    "dificuldade": "medio",
+    "tipo": "capital",
+    "pais": "Austrália",
+    "dicas": [
+      "Não é a maior cidade do país.",
+      "Foi planejada para ser a capital."
+    ]
+  },
+  {
+    "id": 274,
+    "pergunta": "Qual é o ponto turístico mais famoso da Austrália, um grande rochedo vermelho?",
+    "alternativas": [
+      "Uluru",
+      "Opera House",
+      "Grande Barreira de Corais",
+      "Blue Mountains"
+    ],
+    "resposta": 0,
+    "continente": "Oceania",
+    "regiao": "oceania",
+    "dificuldade": "medio",
+    "tipo": "pontos-turisticos",
+    "pais": "Austrália",
+    "dicas": [
+      "É sagrado para os aborígenes.",
+      "Também é conhecido como Ayers Rock."
+    ]
+  },
+  {
+    "id": 275,
+    "pergunta": "Qual é o maior recife de corais do mundo, localizado na Austrália?",
+    "alternativas": [
+      "Grande Barreira de Corais",
+      "Recife de Belize",
+      "Recife de Tubbataha",
+      "Recife de Nova Caledônia"
+    ],
+    "resposta": 0,
+    "continente": "Oceania",
+    "regiao": "oceania",
+    "dificuldade": "facil",
+    "tipo": "pontos-turisticos",
+    "pais": "Austrália",
+    "dicas": [
+      "Pode ser visto do espaço.",
+      "É o maior do mundo."
+    ]
+  },
+  {
+    "id": 276,
+    "pergunta": "Qual é a capital da Nova Zelândia, localizada na Ilha Norte?",
+    "alternativas": [
+      "Auckland",
+      "Wellington",
+      "Christchurch",
+      "Hamilton"
+    ],
+    "resposta": 1,
+    "continente": "Oceania",
+    "regiao": "oceania",
+    "dificuldade": "facil",
+    "tipo": "capital",
+    "pais": "Nova Zelândia",
+    "dicas": [
+      "É a capital do país.",
+      "Auckland é maior, mas não é a capital."
+    ]
+  },
+  {
+    "id": 277,
+    "pergunta": "Qual é o ponto turístico mais famoso da Nova Zelândia, usado em filmes de Senhor dos Anéis?",
+    "alternativas": [
+      "Fiordland",
+      "Mount Cook",
+      "Hobbiton",
+      "Rotorua"
+    ],
+    "resposta": 2,
+    "continente": "Oceania",
+    "regiao": "oceania",
+    "dificuldade": "medio",
+    "tipo": "pontos-turisticos",
+    "pais": "Nova Zelândia",
+    "dicas": [
+      "Fica na Ilha Norte.",
+      "É uma vila cenográfica de um filme famoso."
+    ]
+  },
+  {
+    "id": 278,
+    "pergunta": "Qual é o oceano que banha a costa leste da Austrália?",
+    "alternativas": [
+      "Oceano Pacífico",
+      "Oceano Índico",
+      "Oceano Atlântico",
+      "Oceano Antártico"
+    ],
+    "resposta": 0,
+    "continente": "Oceania",
+    "regiao": "oceania",
+    "dificuldade": "facil",
+    "tipo": "hidrografia",
+    "pais": "Austrália",
+    "dicas": [
+      "A Grande Barreira de Corais fica nele.",
+      "É o maior oceano do mundo."
+    ]
+  },
+  {
+    "id": 279,
+    "pergunta": "Qual é a maior ilha da Europa?",
+    "alternativas": [
+      "Grã-Bretanha",
+      "Islândia",
+      "Sicília",
+      "Creta"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "medio",
+    "tipo": "geografia",
+    "pais": "Reino Unido",
+    "dicas": [
+      "É a ilha que contém Inglaterra, Escócia e País de Gales.",
+      "É a maior ilha da Europa em área."
+    ]
+  },
+  {
+    "id": 280,
+    "pergunta": "Qual país europeu tem a maior costa marítima?",
+    "alternativas": [
+      "Noruega",
+      "Grécia",
+      "Itália",
+      "Reino Unido"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "dificil",
+    "tipo": "geografia",
+    "pais": "Noruega",
+    "dicas": [
+      "Possui milhares de fiordes.",
+      "A costa é recortada e muito extensa."
+    ]
+  },
+  {
+    "id": 281,
+    "pergunta": "Qual é o maior lago da Europa?",
+    "alternativas": [
+      "Lago Ladoga",
+      "Lago Onega",
+      "Lago Vänern",
+      "Lago Genebra"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "dificil",
+    "tipo": "hidrografia",
+    "pais": "Rússia",
+    "dicas": [
+      "Está localizado na Rússia.",
+      "É o maior lago de água doce da Europa."
+    ]
+  },
+  {
+    "id": 282,
+    "pergunta": "Qual é o maior rio da França?",
+    "alternativas": [
+      "Sena",
+      "Ródano",
+      "Loire",
+      "Garonne"
+    ],
+    "resposta": 2,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "medio",
+    "tipo": "hidrografia",
+    "pais": "França",
+    "dicas": [
+      "É o rio mais longo da França.",
+      "Nasce no Maciço Central."
+    ]
+  },
+  {
+    "id": 283,
+    "pergunta": "Qual é a maior cidade da Alemanha?",
+    "alternativas": [
+      "Berlim",
+      "Hamburgo",
+      "Munique",
+      "Frankfurt"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "facil",
+    "tipo": "populacao",
+    "pais": "Alemanha",
+    "dicas": [
+      "É a capital do país.",
+      "Tem mais de 3,5 milhões de habitantes."
+    ]
+  },
+  {
+    "id": 284,
+    "pergunta": "Qual é a maior cidade da Itália?",
+    "alternativas": [
+      "Roma",
+      "Milão",
+      "Nápoles",
+      "Turim"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "facil",
+    "tipo": "populacao",
+    "pais": "Itália",
+    "dicas": [
+      "É a capital do país.",
+      "Possui cerca de 2,8 milhões de habitantes."
+    ]
+  },
+  {
+    "id": 285,
+    "pergunta": "Qual é a maior cidade da Espanha?",
+    "alternativas": [
+      "Madri",
+      "Barcelona",
+      "Valência",
+      "Sevilha"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "facil",
+    "tipo": "populacao",
+    "pais": "Espanha",
+    "dicas": [
+      "É a capital do país.",
+      "Tem mais de 3 milhões de habitantes."
+    ]
+  },
+  {
+    "id": 286,
+    "pergunta": "Qual é a maior cidade do Reino Unido?",
+    "alternativas": [
+      "Londres",
+      "Manchester",
+      "Birmingham",
+      "Glasgow"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "facil",
+    "tipo": "populacao",
+    "pais": "Reino Unido",
+    "dicas": [
+      "É a capital do país.",
+      "Tem cerca de 9 milhões de habitantes."
+    ]
+  },
+  {
+    "id": 287,
+    "pergunta": "Qual é a cidade mais populosa da Rússia?",
+    "alternativas": [
+      "Moscou",
+      "São Petersburgo",
+      "Kazan",
+      "Novosibirsk"
+    ],
+    "resposta": 0,
+    "continente": "Europa",
+    "regiao": "europa",
+    "dificuldade": "facil",
+    "tipo": "populacao",
+    "pais": "Rússia",
+    "dicas": [
+      "É a capital do país.",
+      "Tem mais de 12 milhões de habitantes."
+    ]
+  },
+  {
+    "id": 288,
+    "pergunta": "Qual é a maior cidade da África do Sul?",
+    "alternativas": [
+      "Joanesburgo",
+      "Cidade do Cabo",
+      "Pretória",
+      "Durban"
+    ],
+    "resposta": 0,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "medio",
+    "tipo": "populacao",
+    "pais": "África do Sul",
+    "dicas": [
+      "É o centro econômico do país.",
+      "Foi construída sobre minas de ouro."
+    ]
+  },
+  {
+    "id": 289,
+    "pergunta": "Qual é a maior cidade do Egito?",
+    "alternativas": [
+      "Cairo",
+      "Alexandria",
+      "Luxor",
+      "Aswan"
+    ],
+    "resposta": 0,
+    "continente": "África",
+    "regiao": "africa",
+    "dificuldade": "facil",
+    "tipo": "populacao",
+    "pais": "Egito",
+    "dicas": [
+      "É a capital do país.",
+      "Tem mais de 20 milhões de habitantes na região metropolitana."
+    ]
+  },
+  {
+    "id": 290,
+    "pergunta": "Qual é a maior cidade do México?",
+    "alternativas": [
+      "Cidade do México",
+      "Guadalajara",
+      "Monterrey",
+      "Puebla"
+    ],
+    "resposta": 0,
+    "continente": "América do Norte",
+    "regiao": "america-do-norte",
+    "dificuldade": "facil",
+    "tipo": "populacao",
+    "pais": "México",
+    "dicas": [
+      "É a capital do país.",
+      "É uma das cidades mais populosas do mundo."
+    ]
+  },
+  {
+    "id": 291,
+    "pergunta": "Qual é a maior cidade dos Estados Unidos?",
+    "alternativas": [
+      "Nova York",
+      "Los Angeles",
+      "Chicago",
+      "Houston"
+    ],
+    "resposta": 0,
+    "continente": "América do Norte",
+    "regiao": "america-do-norte",
+    "dificuldade": "facil",
+    "tipo": "populacao",
+    "pais": "Estados Unidos",
+    "dicas": [
+      "É o centro financeiro do país.",
+      "Tem mais de 8 milhões de habitantes."
+    ]
+  },
+  {
+    "id": 292,
+    "pergunta": "Qual é a maior cidade da China?",
+    "alternativas": [
+      "Xangai",
+      "Pequim",
+      "Hong Kong",
+      "Chongqing"
+    ],
+    "resposta": 3,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "medio",
+    "tipo": "populacao",
+    "pais": "China",
+    "dicas": [
+      "É a maior cidade do mundo em área.",
+      "Tem mais de 30 milhões de habitantes."
+    ]
+  },
+  {
+    "id": 293,
+    "pergunta": "Qual é a maior cidade da Índia?",
+    "alternativas": [
+      "Mumbai",
+      "Nova Délhi",
+      "Bangalore",
+      "Kolkata"
+    ],
+    "resposta": 0,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "medio",
+    "tipo": "populacao",
+    "pais": "Índia",
+    "dicas": [
+      "É a capital financeira da Índia.",
+      "Tem mais de 20 milhões de habitantes."
+    ]
+  },
+  {
+    "id": 294,
+    "pergunta": "Qual é a maior cidade do Japão?",
+    "alternativas": [
+      "Tóquio",
+      "Osaka",
+      "Quioto",
+      "Yokohama"
+    ],
+    "resposta": 0,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "populacao",
+    "pais": "Japão",
+    "dicas": [
+      "É a capital do país.",
+      "É a maior área metropolitana do mundo."
+    ]
+  },
+  {
+    "id": 295,
+    "pergunta": "Qual é a maior cidade da Indonésia?",
+    "alternativas": [
+      "Jacarta",
+      "Surabaya",
+      "Bandung",
+      "Medan"
+    ],
+    "resposta": 0,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "populacao",
+    "pais": "Indonésia",
+    "dicas": [
+      "É a capital do país.",
+      "Tem mais de 10 milhões de habitantes."
+    ]
+  },
+  {
+    "id": 296,
+    "pergunta": "Qual é a maior cidade da Austrália?",
+    "alternativas": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane",
+      "Perth"
+    ],
+    "resposta": 0,
+    "continente": "Oceania",
+    "regiao": "oceania",
+    "dificuldade": "facil",
+    "tipo": "populacao",
+    "pais": "Austrália",
+    "dicas": [
+      "É a cidade mais populosa do país.",
+      "A Opera House fica lá."
+    ]
+  },
+  {
+    "id": 297,
+    "pergunta": "Qual país da Oceania é conhecido como a 'Terra dos Cangurus'?",
+    "alternativas": [
+      "Nova Zelândia",
+      "Austrália",
+      "Papua Nova Guiné",
+      "Fiji"
+    ],
+    "resposta": 1,
+    "continente": "Oceania",
+    "regiao": "oceania",
+    "dificuldade": "facil",
+    "tipo": "curiosidades",
+    "pais": "Austrália",
+    "dicas": [
+      "É um país-continente.",
+      "O animal é símbolo nacional."
+    ]
+  },
+  {
+    "id": 298,
+    "pergunta": "Qual é o ponto mais alto da Oceania, localizado na Indonésia?",
+    "alternativas": [
+      "Monte Kosciuszko",
+      "Puncak Jaya",
+      "Monte Cook",
+      "Monte Wilhelm"
+    ],
+    "resposta": 1,
+    "continente": "Oceania",
+    "regiao": "oceania",
+    "dificuldade": "dificil",
+    "tipo": "relevo",
+    "pais": "Indonésia",
+    "dicas": [
+      "Está localizado na ilha de Nova Guiné.",
+      "É também conhecido como Pirâmide de Carstensz."
+    ]
+  },
+  {
+    "id": 299,
+    "pergunta": "Qual é a maior ilha do mundo, localizada na América do Norte?",
+    "alternativas": [
+      "Madagascar",
+      "Groenlândia",
+      "Islândia",
+      "Cuba"
+    ],
+    "resposta": 1,
+    "continente": "América do Norte",
+    "regiao": "america-do-norte",
+    "dificuldade": "facil",
+    "tipo": "geografia",
+    "pais": "Groenlândia",
+    "dicas": [
+      "Grande parte de seu território é coberta por gelo.",
+      "Politicamente, pertence ao Reino da Dinamarca."
+    ]
+  },
+  {
+    "id": 300,
+    "pergunta": "Qual é o ponto mais baixo da Terra, localizado entre Israel e Jordânia?",
+    "alternativas": [
+      "Vale da Morte",
+      "Mar Morto",
+      "Depressão do Atacama",
+      "Laguna del Carbón"
+    ],
+    "resposta": 1,
+    "continente": "Ásia",
+    "regiao": "asia",
+    "dificuldade": "facil",
+    "tipo": "relevo",
+    "pais": "Israel",
+    "dicas": [
+      "Está a mais de 400 metros abaixo do nível do mar.",
+      "É famoso por sua alta salinidade."
+    ]
   }
-] 
+]
