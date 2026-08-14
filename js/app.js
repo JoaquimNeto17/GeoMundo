@@ -1,19 +1,10 @@
 /* ============================================================
    GEO MUNDO — app.js
-   Inicialização geral, navegação entre telas, modo exploração
-   e o fluxo de nome do jogador / ranking.
+   Inicialização geral, navegação entre telas
    ============================================================ */
 
 let bancoPaises = {};
-let modoExploracaoAtivo = false;
 
-/**
- * Inicializa a aplicação. Cada etapa é protegida individualmente:
- * se o carregamento dos dados falhar (por exemplo, o jogo foi
- * aberto direto como arquivo, sem servidor local), o mapa e os
- * botões continuam funcionando e uma mensagem clara é exibida
- * em vez de travar em "Carregando...".
- */
 async function init() {
   renderizarRanking("ranking-list", carregarRanking());
 
@@ -34,37 +25,34 @@ async function init() {
 
   if (!perguntasOk) {
     el("question-text").textContent =
-      "Não foi possível carregar as perguntas. Rode o projeto com um servidor local (ex.: python3 -m http.server) em vez de abrir o arquivo diretamente.";
+      "Não foi possível carregar as perguntas. Rode o projeto com um servidor local.";
   }
 
   initMap();
   ligarEventos();
+  updateRankingDisplay();
 }
 
 function ligarEventos() {
+  // Botão principal - INICIAR JOGO
   el("btn-jogar").addEventListener("click", () => {
-    modoExploracaoAtivo = false;
     abrirModalNome((nome) => startGame(nome));
   });
 
-  el("btn-explorar").addEventListener("click", abrirModoExploracao);
-
-  el("btn-conquistas").addEventListener("click", () => {
-    alert("🏆 Conquistas: em breve! Continue jogando para desbloquear novas conquistas.");
-  });
-
+  // COMO JOGAR
   el("btn-como-jogar").addEventListener("click", () => {
     alert(
       "COMO JOGAR\n\n" +
-      "1. Escolha JOGAR, informe seu nome e responda perguntas de geografia.\n" +
-      "2. Use o mapa para se localizar durante os desafios.\n" +
+      "1. Informe seu nome e comece a jornada.\n" +
+      "2. Responda perguntas de geografia sobre regiões do mundo.\n" +
       "3. Cada erro custa uma vida — você tem 3 vidas por partida.\n" +
       "4. Acertos seguidos aumentam sua sequência e rendem XP bônus.\n" +
-      "5. Complete uma região para avançar de nível.\n" +
+      "5. Complete 5 acertos em uma região para avançar de nível.\n" +
       "6. Ao final da partida, seu XP entra no ranking."
     );
   });
 
+  // Controles do jogo
   el("btn-continuar").addEventListener("click", () => nextQuestion());
   el("btn-hint").addEventListener("click", () => usarDica());
 
@@ -73,19 +61,53 @@ function ligarEventos() {
     abrirModalNome((nome) => startGame(nome));
   });
 
+  // Ranking
+  ligarBotaoLimparRanking("btn-limpar-ranking", "ranking-list");
+  ligarBotaoLimparRanking("btn-limpar-ranking-go", "go-ranking-list");
+
+  // Navegação
   el("btn-menu-principal").addEventListener("click", voltarAoMenu);
   el("btn-vitoria-menu").addEventListener("click", voltarAoMenu);
   el("btn-proximo-nivel").addEventListener("click", () => {
     fecharOverlays();
     goToNextLevel();
   });
+
+  // Botão VOLTAR
+  el("btn-voltar-menu").addEventListener("click", function() {
+    if (estado.progress && estado.progress.perguntasRespondidas > 0) {
+      abrirModalSalvar();
+    } else {
+      voltarAoMenu();
+    }
+  });
+
+  // Botões do modal de salvar
+  el("btn-salvar-sim").addEventListener("click", function() {
+    salvarProgressoAtual();
+    document.getElementById("overlay-salvar").classList.add("hidden");
+    voltarAoMenu();
+  });
+
+  el("btn-salvar-nao").addEventListener("click", function() {
+    document.getElementById("overlay-salvar").classList.add("hidden");
+    voltarAoMenu();
+  });
 }
 
-/**
- * Abre o modal pedindo o nome do jogador. Ao confirmar, chama
- * callback(nome) e fecha o modal. Cada partida pede um nome novo,
- * garantindo que o resultado anterior nunca seja reaproveitado.
- */
+function ligarBotaoLimparRanking(botaoId, containerId) {
+  const btn = el(botaoId);
+  if (!btn) return;
+  btn.addEventListener("click", () => {
+    const confirmado = confirm("Tem certeza que deseja apagar todo o ranking? Essa ação não pode ser desfeita.");
+    if (!confirmado) return;
+    limparRanking();
+    renderizarRanking(containerId, []);
+    const outroContainer = containerId === "ranking-list" ? "go-ranking-list" : "ranking-list";
+    if (el(outroContainer)) renderizarRanking(outroContainer, []);
+  });
+}
+
 function abrirModalNome(callback) {
   const overlay = el("overlay-nome");
   const input = el("input-nome-jogador");
@@ -117,70 +139,31 @@ function abrirModalNome(callback) {
   input.addEventListener("keydown", onEnter);
 }
 
+function abrirModalSalvar() {
+  const xp = estado.progress ? estado.progress.xp : 0;
+  document.getElementById("salvar-xp").textContent = xp;
+  document.getElementById("overlay-salvar").classList.remove("hidden");
+}
+
+function salvarProgressoAtual() {
+  if (estado.progress) {
+    salvarNoRanking(estado.progress);
+    updateRankingDisplay();
+  }
+}
+
+function updateRankingDisplay() {
+  const ranking = carregarRanking();
+  renderizarRanking("ranking-list", ranking);
+  renderizarRanking("go-ranking-list", ranking);
+}
+
 function voltarAoMenu() {
   fecharOverlays();
   const painel = document.getElementById("explore-panel");
   if (painel) painel.remove();
-  renderizarRanking("ranking-list", carregarRanking());
+  updateRankingDisplay();
   mostrarTela("screen-menu");
-}
-
-/**
- * Ativa o modo "Explorar o Mundo": o jogador navega livremente
- * pelo mapa e pode clicar em países para ver informações.
- */
-function abrirModoExploracao() {
-  modoExploracaoAtivo = true;
-  mostrarTela("screen-game");
-  el("map-hint").textContent = "Modo exploração: clique em um país no mapa para ver detalhes.";
-  document.querySelector(".quiz-column").innerHTML = `
-    <div class="question-card">
-      <div class="eyebrow">Modo exploração</div>
-      <div class="question-text" style="font-size:16px;">Clique em qualquer país no mapa para descobrir sua capital, idioma e moeda — e desafiar-se com perguntas sobre ele.</div>
-    </div>
-  `;
-  centralizarRegiao("mundo");
-
-  aoSelecionarPais((nomePais) => {
-    const chaveEncontrada = Object.keys(bancoPaises).find(
-      (nome) => nome.toLowerCase() === nomePais.toLowerCase()
-    );
-    if (!chaveEncontrada) return;
-
-    const dados = bancoPaises[chaveEncontrada];
-    adicionarMarcador(dados.coordenadas, chaveEncontrada);
-    centralizarMapa(dados.coordenadas, 4.2);
-    renderizarPainelExploracao(chaveEncontrada, dados);
-
-    document.getElementById("btn-desafiar-pais").addEventListener("click", () => {
-      abrirModalNome((nome) => desafiarPais(nome, chaveEncontrada, dados));
-    });
-  });
-}
-
-/**
- * Inicia uma partida focada nas perguntas de um país específico
- * escolhido no modo exploração.
- */
-function desafiarPais(nomeJogador, nomePais, dados) {
-  modoExploracaoAtivo = false;
-  const painel = document.getElementById("explore-panel");
-  if (painel) painel.remove();
-
-  const idx = REGIOES.findIndex((r) => r.id === dados.regiao);
-  estado.progress = novaSessao(nomeJogador);
-  estado.vidas = VIDAS_MAX;
-  estado.streakAtual = 0;
-  estado.acertosNoNivel = 0;
-  estado.regiaoAtualIndex = idx >= 0 ? idx : 0;
-
-  atualizarStreakUI(estado.streakAtual);
-  renderizarVidas(estado.vidas, VIDAS_MAX);
-  atualizarHudJogo(estado.progress, regiaoAtual().nome);
-  centralizarRegiao(regiaoAtual().id);
-  el("map-hint").textContent = "Use o mapa para explorar a região enquanto responde.";
-
-  loadQuestion();
 }
 
 document.addEventListener("DOMContentLoaded", init);

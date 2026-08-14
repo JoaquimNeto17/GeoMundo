@@ -48,6 +48,17 @@ function carregarRanking() {
 }
 
 /**
+ * Limpa todo o ranking salvo (usado pelo botão "Limpar ranking").
+ */
+function limparRanking() {
+  try {
+    localStorage.removeItem(RANKING_KEY);
+  } catch (err) {
+    console.error("Erro ao limpar ranking:", err);
+  }
+}
+
+/**
  * Adiciona o resultado de uma partida finalizada ao ranking,
  * mantendo apenas os melhores RANKING_MAX resultados.
  */

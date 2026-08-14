@@ -1,18 +1,3 @@
-/* ============================================================
-   GEO MUNDO — map.js
-   Toda a lógica de interação com o mapa, usando Leaflet.js +
-   tiles do OpenStreetMap. Não depende de Mapbox nem de chave
-   de API — os tiles do OSM são gratuitos e não exigem token.
-
-   Atribuição obrigatória "© OpenStreetMap contributors" é
-   mantida automaticamente pelo controle de atribuição do Leaflet.
-
-   Convenção de coordenadas usada neste arquivo: assim como no
-   resto do projeto (countries.json, questions.json), coordenadas
-   chegam como [longitude, latitude]. Internamente convertemos
-   para o formato do Leaflet, que é [latitude, longitude].
-   ============================================================ */
-
 let geoMap = null;
 let paisSelecionadoCallback = null;
 

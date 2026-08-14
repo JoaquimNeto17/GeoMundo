@@ -1,7 +1,6 @@
 /* ============================================================
    GEO MUNDO — ui.js
-   Funções responsáveis por atualizar o DOM. Não contém regras
-   de jogo, apenas leitura/escrita de elementos visuais.
+   Funções responsáveis por atualizar o DOM.
    ============================================================ */
 
 const el = (id) => document.getElementById(id);
@@ -10,25 +9,17 @@ function mostrarTela(nomeTela) {
   ["screen-menu", "screen-game"].forEach((id) => el(id).classList.add("hidden"));
   el(nomeTela).classList.remove("hidden");
 
-  // O Leaflet é inicializado enquanto a tela do jogo ainda está oculta
-  // (display:none), então ele mede o container como 0x0 pixels. Isso
-  // corrompe os cálculos internos de projeção (gera coordenadas NaN)
-  // até que o mapa seja "avisado" do novo tamanho real do container.
   if (nomeTela === "screen-game" && typeof geoMap !== "undefined" && geoMap) {
     geoMap.invalidateSize();
   }
 }
 
 function fecharOverlays() {
-  ["overlay-result", "overlay-gameover", "overlay-vitoria"].forEach((id) =>
+  ["overlay-result", "overlay-gameover", "overlay-vitoria", "overlay-salvar"].forEach((id) =>
     el(id).classList.add("hidden")
   );
 }
 
-/**
- * Renderiza a lista de ranking (usada no menu e na tela de game over).
- * nomeDestaque, se informado, recebe destaque visual (última partida).
- */
 function renderizarRanking(containerId, ranking, nomeDestaque) {
   const container = el(containerId);
   if (!container) return;
@@ -42,16 +33,32 @@ function renderizarRanking(containerId, ranking, nomeDestaque) {
   ranking.forEach((entrada, i) => {
     const row = document.createElement("div");
     row.className = "ranking-row" + (nomeDestaque && entrada.nome === nomeDestaque && i === 0 ? " destaque" : "");
-    row.innerHTML = `<span class="ranking-pos">${i + 1}º</span><span class="ranking-nome">${entrada.nome}</span><span class="ranking-xp">${entrada.xp} XP</span>`;
+    row.innerHTML = `
+      <span class="ranking-pos">${i + 1}°</span>
+      <span class="ranking-nome">${entrada.nome}</span>
+      <span class="ranking-xp">${entrada.xp} XP</span>
+    `;
     container.appendChild(row);
   });
 }
 
-function atualizarHudJogo(progress, regiaoNome) {
+function atualizarRankingGlobal() {
+  const ranking = carregarRanking();
+  renderizarRanking("ranking-list", ranking);
+  renderizarRanking("go-ranking-list", ranking);
+}
+
+// HEADER SIMPLIFICADA
+function atualizarHudJogo(progress, regiao) {
+  // Nome do jogador
   el("hud-nome").textContent = progress.nome;
-  el("hud-xp").textContent = progress.xp;
-  el("hud-nivel").textContent = "Nível " + progress.nivel;
-  el("hud-regiao").textContent = regiaoNome;
+  
+  // Nível
+  const nivelTexto = "Nível " + progress.nivel + (regiao.nomeNivel ? " · " + regiao.nomeNivel : "");
+  el("hud-nivel").textContent = nivelTexto;
+  
+  // XP
+  el("hud-xp").textContent = progress.xp + " XP";
 }
 
 function renderizarPergunta(pergunta) {
@@ -105,7 +112,7 @@ function mostrarDica(texto) {
   const wrap = el("hint-box-wrap");
   const box = document.createElement("div");
   box.className = "hint-box";
-  box.textContent = "💡 " + texto;
+  box.textContent = texto;
   wrap.appendChild(box);
 }
 
@@ -143,7 +150,7 @@ function atualizarContador(valor) {
 }
 
 function mostrarGameOver(stats, ranking) {
-  el("go-nome").textContent = `🌎 ${stats.nome}, sua jornada terminou`;
+  el("go-nome").textContent = stats.nome + ", sua jornada terminou";
   el("go-xp").textContent = stats.xp;
   el("go-respondidas").textContent = stats.perguntasRespondidas;
   el("go-acertos").textContent = stats.acertos;
